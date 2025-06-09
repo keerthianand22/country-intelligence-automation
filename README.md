@@ -1,6 +1,6 @@
 # Country Intelligence Automation Platform
 
-This project focuses on automating the collection, analysis, and visualization of global country intelligence data to support defense and strategic operations. Developed during an internship with a Fortune 100 U.S. Defense Contractor, this work was presented at the INFORMS 2025 Analytics+ Conference.
+This project was developed as part of an internship with a **Fortune 500 major American defense contractor**. It focuses on automating the collection, analysis, and visualization of global country intelligence data to support strategic and defense-related decision-making. The project was showcased at the INFORMS 2025 Analytics+ Conference.
 
 ## Project Overview
 
@@ -52,6 +52,6 @@ To create a centralized, automated platform that:
 
 ## Achievements
 
-- Successfully supported decision-making for strategic teams
-- Presented as a case study at **INFORMS 2025 Analytics+ Conference**
-- Contributed to the firm’s submission for the Future Edelman Impact Award
+- Developed during internship with a **Fortune 500 major American defense contractor**
+- Presented at **INFORMS 2025 Analytics+ Conference**
+- Contributed to the firm’s submission for the **Future Edelman Impact Award**
