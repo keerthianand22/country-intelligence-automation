@@ -1,0 +1,8 @@
+Final Code Uploads:
+Each scraper extracts what the name suggests. Important Notes:
+AIRCRAFT Scraper extracts from https://www.wdmma.org/
+NAVAL Scraper extracts from https://www.wdmmw.org/
+ARMOR Scraper extracts from https://www.militaryfactory.com/
+LANDPOWER/MANPOWER Scrapers extract from https://www.globalfirepower.com/
+
+IGNORE scrape_military_firepower.py -- its an old file that gets a lot of data but its not very organized. Can still be usefuly if needed.

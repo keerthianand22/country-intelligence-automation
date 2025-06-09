@@ -1,0 +1,3552 @@
+Country,Trade Type,Partner Country,Value (Million USD),Year
+united-states,Export,Canada,$348.41B,2024
+united-states,Export,Mexico,$334.04B,2024
+united-states,Export,China,$143.55B,2024
+united-states,Export,Netherlands,$89.64B,2024
+united-states,Export,United Kingdom,$79.89B,2024
+united-states,Export,Japan,$79.72B,2024
+united-states,Export,Germany,$75.38B,2024
+united-states,Export,South Korea,$65.54B,2024
+united-states,Export,Brazil,$49.67B,2024
+united-states,Export,Singapore,$46.02B,2024
+china,Export,United States,$501.22B,2023
+china,Export,Hong Kong,$274.52B,2023
+china,Export,Japan,$157.50B,2023
+china,Export,South Korea,$148.98B,2023
+china,Export,Vietnam,$137.61B,2023
+china,Export,India,$117.68B,2023
+china,Export,Russia,$110.94B,2023
+china,Export,Germany,$100.57B,2023
+china,Export,Netherlands,$100.20B,2023
+china,Export,Malaysia,$87.37B,2023
+japan,Export,United States,$141.52B,2024
+japan,Export,China,$124.63B,2024
+japan,Export,South Korea,$46.38B,2024
+japan,Export,Hong Kong,$35.94B,2024
+japan,Export,Thailand,$26.57B,2024
+japan,Export,Singapore,$19.82B,2024
+japan,Export,Germany,$17.37B,2024
+japan,Export,India,$17.21B,2024
+japan,Export,Vietnam,$17.08B,2024
+japan,Export,Australia,$15.99B,2024
+germany,Export,United States,$116.33B,2024
+germany,Export,France,$80.00B,2024
+germany,Export,Netherlands,$77.47B,2024
+germany,Export,Poland,$66.80B,2024
+germany,Export,China,$62.14B,2024
+germany,Export,United Kingdom,$57.06B,2024
+germany,Export,Italy,$56.52B,2024
+germany,Export,Austria,$53.20B,2024
+germany,Export,Switzerland,$49.23B,2024
+germany,Export,Belgium,$41.42B,2024
+united-kingdom,Export,United States,$72.33B,2024
+united-kingdom,Export,China,$46.83B,2024
+united-kingdom,Export,Germany,$38.51B,2024
+united-kingdom,Export,Netherlands,$33.44B,2024
+united-kingdom,Export,Switzerland,$29.19B,2024
+united-kingdom,Export,France,$28.35B,2024
+united-kingdom,Export,Ireland,$23.21B,2024
+united-kingdom,Export,Belgium,$20.94B,2024
+united-kingdom,Export,United Arab Emirates,$12.35B,2024
+united-kingdom,Export,Hong Kong,$11.93B,2024
+france,Export,Germany,$86.45B,2023
+france,Export,Italy,$57.39B,2023
+france,Export,Belgium,$52.22B,2023
+france,Export,Spain,$48.33B,2023
+france,Export,United States,$45.54B,2023
+france,Export,United Kingdom,$38.60B,2023
+france,Export,China,$26.64B,2023
+france,Export,Netherlands,$24.60B,2023
+france,Export,Switzerland,$22.01B,2023
+france,Export,Poland,$15.58B,2023
+india,Export,United States,$75.81B,2023
+india,Export,United Arab Emirates,$33.02B,2023
+india,Export,Netherlands,$23.11B,2023
+india,Export,China,$16.25B,2023
+india,Export,United Kingdom,$12.48B,2023
+india,Export,Singapore,$12.04B,2023
+india,Export,Bangladesh,$11.25B,2023
+india,Export,Saudi Arabia,$10.83B,2023
+india,Export,Germany,$9.67B,2023
+india,Export,Hong Kong,$8.73B,2023
+italy,Export,Germany,$76.82B,2024
+italy,Export,United States,$70.16B,2024
+italy,Export,France,$67.37B,2024
+italy,Export,Spain,$37.37B,2024
+italy,Export,Switzerland,$32.71B,2024
+italy,Export,United Kingdom,$29.69B,2024
+italy,Export,Poland,$21.40B,2024
+italy,Export,Belgium,$20.93B,2024
+italy,Export,Netherlands,$20.92B,2024
+italy,Export,Turkey,$19.08B,2024
+brazil,Export,China,$94.41B,2024
+brazil,Export,United States,$40.92B,2024
+brazil,Export,Argentina,$13.78B,2024
+brazil,Export,Netherlands,$11.76B,2024
+brazil,Export,Spain,$9.94B,2024
+brazil,Export,Singapore,$7.90B,2024
+brazil,Export,Mexico,$7.80B,2024
+brazil,Export,Chile,$6.66B,2024
+brazil,Export,Canada,$6.32B,2024
+brazil,Export,Germany,$5.85B,2024
+canada,Export,United States,$439.60B,2023
+canada,Export,China,$22.60B,2023
+canada,Export,Japan,$11.68B,2023
+canada,Export,United Kingdom,$10.49B,2023
+canada,Export,Mexico,$6.49B,2023
+canada,Export,Netherlands,$5.50B,2023
+canada,Export,South Korea,$5.14B,2023
+canada,Export,Germany,$5.13B,2023
+canada,Export,India,$3.78B,2023
+canada,Export,Hong Kong,$3.60B,2023
+south-korea,Export,China,$124.66B,2023
+south-korea,Export,United States,$116.09B,2023
+south-korea,Export,Vietnam,$53.47B,2023
+south-korea,Export,Japan,$29.00B,2023
+south-korea,Export,Hong Kong,$25.19B,2023
+south-korea,Export,Singapore,$18.75B,2023
+south-korea,Export,India,$17.90B,2023
+south-korea,Export,Australia,$17.79B,2023
+south-korea,Export,Mexico,$12.22B,2023
+south-korea,Export,Germany,$10.31B,2023
+russia,Export,China,$68.68B,2021
+russia,Export,Netherlands,$42.15B,2021
+russia,Export,Germany,$29.65B,2021
+russia,Export,Turkey,$26.43B,2021
+russia,Export,Belarus,$23.13B,2021
+russia,Export,United Kingdom,$22.27B,2021
+russia,Export,Italy,$19.28B,2021
+russia,Export,Kazakhstan,$18.49B,2021
+russia,Export,United States,$17.75B,2021
+russia,Export,South Korea,$16.89B,2021
+spain,Export,France,$63.20B,2023
+spain,Export,Germany,$42.27B,2023
+spain,Export,Italy,$34.86B,2023
+spain,Export,Portugal,$33.57B,2023
+spain,Export,United Kingdom,$24.24B,2023
+spain,Export,United States,$19.69B,2023
+spain,Export,Belgium,$16.12B,2023
+spain,Export,Netherlands,$12.95B,2023
+spain,Export,Morocco,$12.82B,2023
+spain,Export,Poland,$9.78B,2023
+australia,Export,China,$102.63B,2024
+australia,Export,Japan,$30.62B,2024
+australia,Export,South Korea,$19.87B,2024
+australia,Export,India,$16.48B,2024
+australia,Export,United States,$14.73B,2024
+australia,Export,New Zealand,$8.24B,2024
+australia,Export,Indonesia,$8.13B,2024
+australia,Export,Hong Kong,$7.78B,2024
+australia,Export,Singapore,$7.34B,2024
+australia,Export,Vietnam,$6.88B,2024
+mexico,Export,United States,$452.29B,2022
+mexico,Export,Canada,$15.40B,2022
+mexico,Export,China,$10.80B,2022
+mexico,Export,Germany,$8.24B,2022
+mexico,Export,Japan,$4.34B,2022
+mexico,Export,Brazil,$4.28B,2022
+mexico,Export,South Korea,$3.69B,2022
+mexico,Export,Colombia,$3.61B,2022
+mexico,Export,Guatemala,$2.99B,2022
+mexico,Export,United Kingdom,$2.87B,2022
+indonesia,Export,China,$64.93B,2023
+indonesia,Export,United States,$23.28B,2023
+indonesia,Export,Japan,$20.79B,2023
+indonesia,Export,India,$20.29B,2023
+indonesia,Export,Singapore,$12.61B,2023
+indonesia,Export,Malaysia,$12.46B,2023
+indonesia,Export,Philippines,$11.04B,2023
+indonesia,Export,South Korea,$10.30B,2023
+indonesia,Export,Vietnam,$7.54B,2023
+indonesia,Export,Thailand,$7.22B,2023
+turkey,Export,Germany,$20.43B,2024
+turkey,Export,United States,$16.35B,2024
+turkey,Export,United Kingdom,$15.29B,2024
+turkey,Export,Iraq,$13.03B,2024
+turkey,Export,Italy,$12.93B,2024
+turkey,Export,France,$10.05B,2024
+turkey,Export,Spain,$9.80B,2024
+turkey,Export,Netherlands,$8.57B,2024
+turkey,Export,Russia,$8.56B,2024
+turkey,Export,United Arab Emirates,$8.29B,2024
+netherlands,Export,Germany,$160.84B,2024
+netherlands,Export,Belgium,$85.94B,2024
+netherlands,Export,France,$56.45B,2024
+netherlands,Export,United Kingdom,$44.89B,2024
+netherlands,Export,United States,$41.47B,2024
+netherlands,Export,Italy,$29.58B,2024
+netherlands,Export,Spain,$24.58B,2024
+netherlands,Export,China,$22.30B,2024
+netherlands,Export,Poland,$22.06B,2024
+netherlands,Export,Sweden,$14.51B,2024
+switzerland,Export,United States,$73.38B,2024
+switzerland,Export,Germany,$51.33B,2024
+switzerland,Export,China,$42.39B,2024
+switzerland,Export,Slovenia,$29.99B,2024
+switzerland,Export,Italy,$27.91B,2024
+switzerland,Export,India,$22.59B,2024
+switzerland,Export,United Kingdom,$22.49B,2024
+switzerland,Export,France,$21.11B,2024
+switzerland,Export,Hong Kong,$12.22B,2024
+switzerland,Export,United Arab Emirates,$11.26B,2024
+saudi-arabia,Export,China,$53.16B,2023
+saudi-arabia,Export,Japan,$32.49B,2023
+saudi-arabia,Export,India,$30.23B,2023
+saudi-arabia,Export,South Korea,$28.59B,2023
+saudi-arabia,Export,United Arab Emirates,$16.62B,2023
+saudi-arabia,Export,United States,$15.64B,2023
+saudi-arabia,Export,Bahrain,$8.79B,2023
+saudi-arabia,Export,Malaysia,$7.68B,2023
+saudi-arabia,Export,Singapore,$7.68B,2023
+saudi-arabia,Export,Egypt,$7.53B,2023
+argentina,Export,Brazil,$13.61B,2024
+argentina,Export,United States,$6.46B,2024
+argentina,Export,Chile,$6.33B,2024
+argentina,Export,China,$5.96B,2024
+argentina,Export,India,$3.93B,2024
+argentina,Export,Vietnam,$3.28B,2024
+argentina,Export,Peru,$2.48B,2024
+argentina,Export,Switzerland,$1.70B,2024
+argentina,Export,Netherlands,$1.69B,2024
+argentina,Export,Uruguay,$1.64B,2024
+south-africa,Export,China,$12.41B,2024
+south-africa,Export,United States,$8.21B,2024
+south-africa,Export,Germany,$7.08B,2024
+south-africa,Export,Mozambique,$6.57B,2024
+south-africa,Export,United Kingdom,$5.28B,2024
+south-africa,Export,Japan,$4.88B,2024
+south-africa,Export,India,$4.75B,2024
+south-africa,Export,Botswana,$4.33B,2024
+south-africa,Export,Netherlands,$4.28B,2024
+south-africa,Export,Namibia,$3.85B,2024
+singapore,Export,China,$65.59B,2023
+singapore,Export,Hong Kong,$50.41B,2023
+singapore,Export,United States,$44.92B,2023
+singapore,Export,Malaysia,$44.45B,2023
+singapore,Export,Indonesia,$35.37B,2023
+singapore,Export,South Korea,$20.65B,2023
+singapore,Export,Japan,$19.35B,2023
+singapore,Export,Thailand,$19.10B,2023
+singapore,Export,Vietnam,$16.65B,2023
+singapore,Export,Australia,$15.13B,2023
+antigua-and-barbuda,Export,United States,$7.71M,2023
+antigua-and-barbuda,Export,China,$2.86M,2023
+antigua-and-barbuda,Export,Netherlands,$2.74M,2023
+antigua-and-barbuda,Export,St Kitts and Nevis,$1.60M,2023
+antigua-and-barbuda,Export,Dominica,$1.59M,2023
+antigua-and-barbuda,Export,United Kingdom,$1.01M,2023
+antigua-and-barbuda,Export,France,$874.76K,2023
+antigua-and-barbuda,Export,Barbados,$531.88K,2023
+antigua-and-barbuda,Export,Spain,$420.31K,2023
+antigua-and-barbuda,Export,Suriname,$337.18K,2023
+aruba,Export,Colombia,$51.02M,2023
+aruba,Export,United States,$17.61M,2023
+aruba,Export,Netherlands,$2.77M,2023
+aruba,Export,Panama,$1.62M,2023
+aruba,Export,Venezuela,$32.97K,2023
+aruba,Export,United Arab Emirates,$2.01M,2022
+aruba,Export,Uruguay,$1.78M,2022
+aruba,Export,Suriname,$1.12M,2022
+bahamas,Export,United States,$562.17M,2023
+bahamas,Export,China,$1.56M,2023
+bahamas,Export,Jamaica,$945.51K,2023
+bahamas,Export,Japan,$762.97K,2023
+bahamas,Export,Netherlands,$691.21K,2023
+bahamas,Export,Germany,$584.26K,2023
+bahamas,Export,Canada,$436.18K,2023
+bahamas,Export,Italy,$388.08K,2023
+bahamas,Export,Finland,$284.88K,2023
+bahamas,Export,Hong Kong,$267.77K,2023
+barbados,Export,United States,$102.46M,2024
+barbados,Export,Jamaica,$34.21M,2024
+barbados,Export,Trinidad And Tobago,$29.83M,2024
+barbados,Export,United Kingdom,$26.49M,2024
+barbados,Export,Guyana,$19.85M,2024
+barbados,Export,Canada,$19.79M,2024
+barbados,Export,St Vincent and the Grenadines,$13.32M,2024
+barbados,Export,Antigua and Barbuda,$11.53M,2024
+barbados,Export,Grenada,$10.87M,2024
+barbados,Export,France,$10.37M,2024
+belize,Export,United States,$71.24M,2022
+belize,Export,United Kingdom,$57.85M,2022
+belize,Export,Guatemala,$31.41M,2022
+belize,Export,Honduras,$19.90M,2022
+belize,Export,Spain,$18.35M,2022
+belize,Export,Trinidad And Tobago,$14.38M,2022
+belize,Export,Jamaica,$13.42M,2022
+belize,Export,Ireland,$11.11M,2022
+belize,Export,Mexico,$7.08M,2022
+belize,Export,Suriname,$3.17M,2022
+bermuda,Export,United States,$20.04M,2023
+bermuda,Export,Canada,$561.09K,2023
+bermuda,Export,United Kingdom,$508.60K,2023
+bermuda,Export,Netherlands,$345.24K,2023
+bermuda,Export,Finland,$306.62K,2023
+bermuda,Export,Germany,$216.36K,2023
+bermuda,Export,Denmark,$54.58K,2023
+bermuda,Export,Ireland,$53.57K,2023
+bermuda,Export,Spain,$36.32K,2023
+bermuda,Export,Portugal,$30.30K,2023
+bolivia,Export,Brazil,$1.58B,2023
+bolivia,Export,India,$1.32B,2023
+bolivia,Export,China,$1.17B,2023
+bolivia,Export,Argentina,$996.72M,2023
+bolivia,Export,Colombia,$957.94M,2023
+bolivia,Export,United Arab Emirates,$893.58M,2023
+bolivia,Export,Japan,$671.26M,2023
+bolivia,Export,Peru,$590.33M,2023
+bolivia,Export,South Korea,$403.68M,2023
+bolivia,Export,Hong Kong,$318.22M,2023
+cayman-islands,Export,United States,$36.81M,2023
+cayman-islands,Export,United Kingdom,$4.94M,2023
+cayman-islands,Export,Jamaica,$3.58M,2023
+chile,Export,China,$37.45B,2023
+chile,Export,United States,$14.31B,2023
+chile,Export,Japan,$6.80B,2023
+chile,Export,South Korea,$6.02B,2023
+chile,Export,Brazil,$4.28B,2023
+chile,Export,Mexico,$1.75B,2023
+chile,Export,Netherlands,$1.62B,2023
+chile,Export,Peru,$1.56B,2023
+chile,Export,India,$1.51B,2023
+chile,Export,Bolivia,$1.43B,2023
+colombia,Export,United States,$14.11B,2023
+colombia,Export,Panama,$4.66B,2023
+colombia,Export,China,$2.47B,2023
+colombia,Export,India,$2.40B,2023
+colombia,Export,Netherlands,$2.04B,2023
+colombia,Export,Ecuador,$2.01B,2023
+colombia,Export,Brazil,$1.89B,2023
+colombia,Export,Mexico,$1.88B,2023
+colombia,Export,Spain,$1.15B,2023
+colombia,Export,Peru,$1.14B,2023
+costa-rica,Export,United States,$8.34B,2023
+costa-rica,Export,Netherlands,$1.51B,2023
+costa-rica,Export,Guatemala,$888.00M,2023
+costa-rica,Export,Belgium,$839.06M,2023
+costa-rica,Export,Nicaragua,$692.53M,2023
+costa-rica,Export,Panama,$625.85M,2023
+costa-rica,Export,Honduras,$598.22M,2023
+costa-rica,Export,El Salvador,$458.74M,2023
+costa-rica,Export,China,$416.66M,2023
+costa-rica,Export,Japan,$379.84M,2023
+cuba,Export,Spain,$346.81M,2022
+cuba,Export,China,$175.50M,2022
+cuba,Export,Germany,$40.84M,2022
+cuba,Export,France,$28.70M,2022
+cuba,Export,Venezuela,$26.86M,2022
+cuba,Export,Canada,$23.86M,2022
+cuba,Export,Hong Kong,$23.46M,2022
+cuba,Export,Cyprus,$17.54M,2022
+cuba,Export,Belgium,$14.30M,2022
+cuba,Export,Italy,$13.81M,2022
+dominica,Export,Iceland,$4.72M,2023
+dominica,Export,Antigua and Barbuda,$3.96M,2023
+dominica,Export,France,$2.06M,2023
+dominica,Export,United States,$1.76M,2023
+dominica,Export,Barbados,$1.43M,2023
+dominica,Export,Guyana,$1.08M,2023
+dominica,Export,St Kitts and Nevis,$954.68K,2023
+dominica,Export,Trinidad And Tobago,$364.1K,2023
+dominica,Export,St Vincent and the Grenadines,$300.27K,2023
+dominica,Export,United Kingdom,$285.42K,2023
+dominican-republic,Export,United States,$7.16B,2023
+dominican-republic,Export,Haiti,$856.49M,2023
+dominican-republic,Export,Switzerland,$807.83M,2023
+dominican-republic,Export,India,$367.08M,2023
+dominican-republic,Export,Netherlands,$350.51M,2023
+dominican-republic,Export,China,$290.37M,2023
+dominican-republic,Export,South Korea,$236.22M,2023
+dominican-republic,Export,Germany,$144.12M,2023
+dominican-republic,Export,Jamaica,$110.86M,2023
+dominican-republic,Export,Belgium,$106.41M,2023
+ecuador,Export,United States,$7.40B,2023
+ecuador,Export,China,$5.67B,2023
+ecuador,Export,Panama,$4.47B,2023
+ecuador,Export,Chile,$978.39M,2023
+ecuador,Export,Peru,$974.81M,2023
+ecuador,Export,Russia,$923.61M,2023
+ecuador,Export,Spain,$853.98M,2023
+ecuador,Export,Netherlands,$852.86M,2023
+ecuador,Export,Colombia,$775.95M,2023
+ecuador,Export,Italy,$629.33M,2023
+el-salvador,Export,United States,$2.16B,2024
+el-salvador,Export,Guatemala,$1.30B,2024
+el-salvador,Export,Honduras,$1.04B,2024
+el-salvador,Export,Nicaragua,$581.21M,2024
+el-salvador,Export,Costa Rica,$309.54M,2024
+el-salvador,Export,Mexico,$249.50M,2024
+el-salvador,Export,Panama,$122.02M,2024
+el-salvador,Export,Dominican Republic,$108.17M,2024
+el-salvador,Export,China,$52.82M,2024
+el-salvador,Export,Spain,$50.31M,2024
+grenada,Export,United States,$4.04M,2023
+grenada,Export,St Vincent and the Grenadines,$3.96M,2023
+grenada,Export,Trinidad And Tobago,$3.15M,2023
+grenada,Export,St Kitts and Nevis,$2.83M,2023
+grenada,Export,Antigua and Barbuda,$1.39M,2023
+grenada,Export,Guyana,$973.61K,2023
+grenada,Export,Jamaica,$846.49K,2023
+grenada,Export,Barbados,$614.41K,2023
+grenada,Export,Netherlands,$501.98K,2023
+grenada,Export,Canada,$407.16K,2023
+guatemala,Export,United States,$4.61B,2023
+guatemala,Export,El Salvador,$1.87B,2023
+guatemala,Export,Honduras,$1.63B,2023
+guatemala,Export,Nicaragua,$985.64M,2023
+guatemala,Export,Mexico,$674.15M,2023
+guatemala,Export,Costa Rica,$641.52M,2023
+guatemala,Export,Netherlands,$624.01M,2023
+guatemala,Export,Panama,$313.83M,2023
+guatemala,Export,Spain,$291.22M,2023
+guatemala,Export,Dominican Republic,$242.23M,2023
+guyana,Export,Netherlands,$3.48B,2024
+guyana,Export,United States,$3.37B,2024
+guyana,Export,United Kingdom,$3.15B,2024
+guyana,Export,Panama,$2.54B,2024
+guyana,Export,Trinidad And Tobago,$1.67B,2024
+guyana,Export,Singapore,$1.18B,2024
+guyana,Export,Spain,$1.07B,2024
+guyana,Export,Sweden,$693.54M,2024
+guyana,Export,Brazil,$639.09M,2024
+guyana,Export,Italy,$610.39M,2024
+haiti,Export,United States,$52.43M,1997
+haiti,Export,France,$2.82M,1997
+haiti,Export,Belgium,$2.26M,1997
+haiti,Export,Netherlands,$604.68K,1997
+haiti,Export,Italy,$558.34K,1997
+haiti,Export,Canada,$403.48K,1997
+haiti,Export,Switzerland,$298.57K,1997
+haiti,Export,Germany,$274.95K,1997
+haiti,Export,United Kingdom,$253.23K,1997
+haiti,Export,Spain,$183.16K,1997
+honduras,Export,United States,$3.23B,2023
+honduras,Export,El Salvador,$464.05M,2023
+honduras,Export,Nicaragua,$422.11M,2023
+honduras,Export,Guatemala,$410.41M,2023
+honduras,Export,Germany,$344.41M,2023
+honduras,Export,Mexico,$290.50M,2023
+honduras,Export,Netherlands,$199.11M,2023
+honduras,Export,Dominican Republic,$186.13M,2023
+honduras,Export,Belgium,$176.40M,2023
+honduras,Export,Italy,$164.94M,2023
+jamaica,Export,United States,$1.01B,2023
+jamaica,Export,Russia,$138.05M,2023
+jamaica,Export,Latvia,$131.07M,2023
+jamaica,Export,Iceland,$94.90M,2023
+jamaica,Export,United Kingdom,$68.93M,2023
+jamaica,Export,Netherlands,$58.96M,2023
+jamaica,Export,Guyana,$52.99M,2023
+jamaica,Export,Canada,$46.67M,2023
+jamaica,Export,Cayman Islands,$36.39M,2023
+jamaica,Export,Trinidad And Tobago,$35.91M,2023
+nicaragua,Export,United States,$3.71B,2023
+nicaragua,Export,Mexico,$1.01B,2023
+nicaragua,Export,El Salvador,$482.23M,2023
+nicaragua,Export,Canada,$426.73M,2023
+nicaragua,Export,Honduras,$368.45M,2023
+nicaragua,Export,Costa Rica,$240.07M,2023
+nicaragua,Export,Guatemala,$163.24M,2023
+nicaragua,Export,Belgium,$88.36M,2023
+nicaragua,Export,Panama,$78.11M,2023
+nicaragua,Export,United Kingdom,$64.06M,2023
+panama,Export,United States,$233.79M,2024
+panama,Export,Netherlands,$140.39M,2024
+panama,Export,India,$54.49M,2024
+panama,Export,China,$49.37M,2024
+panama,Export,Costa Rica,$48.13M,2024
+panama,Export,Mexico,$46.55M,2024
+panama,Export,Denmark,$30.01M,2024
+panama,Export,United Kingdom,$25.44M,2024
+panama,Export,Guatemala,$21.80M,2024
+panama,Export,Switzerland,$20.45M,2024
+paraguay,Export,Brazil,$3.53B,2024
+paraguay,Export,Argentina,$3.36B,2024
+paraguay,Export,Chile,$926.88M,2024
+paraguay,Export,United States,$413.79M,2024
+paraguay,Export,Russia,$206.97M,2024
+paraguay,Export,Peru,$186.10M,2024
+paraguay,Export,Uruguay,$167.26M,2024
+paraguay,Export,Netherlands,$166.62M,2024
+paraguay,Export,Israel,$165.72M,2024
+paraguay,Export,India,$98.51M,2024
+peru,Export,China,$23.16B,2023
+peru,Export,United States,$9.18B,2023
+peru,Export,Canada,$2.99B,2023
+peru,Export,India,$2.53B,2023
+peru,Export,South Korea,$2.34B,2023
+peru,Export,Japan,$2.22B,2023
+peru,Export,Chile,$1.95B,2023
+peru,Export,Spain,$1.88B,2023
+peru,Export,Netherlands,$1.80B,2023
+peru,Export,Brazil,$1.73B,2023
+suriname,Export,United States,$74.07M,2023
+suriname,Export,United Arab Emirates,$15.86M,2023
+suriname,Export,Paraguay,$14.74M,2023
+suriname,Export,Trinidad And Tobago,$11.63M,2023
+suriname,Export,Netherlands,$9.89M,2023
+suriname,Export,China,$7.15M,2023
+suriname,Export,France,$6.47M,2023
+suriname,Export,United Kingdom,$5.01M,2023
+suriname,Export,South Korea,$1.93M,2023
+suriname,Export,Jamaica,$1.90M,2023
+trinidad-and-tobago,Export,United States,$2.67B,2023
+trinidad-and-tobago,Export,China,$380.19M,2023
+trinidad-and-tobago,Export,Guyana,$373.23M,2023
+trinidad-and-tobago,Export,Belgium,$353.76M,2023
+trinidad-and-tobago,Export,Morocco,$319.45M,2023
+trinidad-and-tobago,Export,Netherlands,$302.00M,2023
+trinidad-and-tobago,Export,South Korea,$256.17M,2023
+trinidad-and-tobago,Export,Jamaica,$225.35M,2023
+trinidad-and-tobago,Export,Spain,$216.21M,2023
+trinidad-and-tobago,Export,Brazil,$209.68M,2023
+uruguay,Export,China,$2.40B,2022
+uruguay,Export,Brazil,$1.68B,2022
+uruguay,Export,Argentina,$904.30M,2022
+uruguay,Export,United States,$695.63M,2022
+uruguay,Export,Netherlands,$294.01M,2022
+uruguay,Export,Algeria,$228.58M,2022
+uruguay,Export,Mexico,$203.69M,2022
+uruguay,Export,Chile,$169.54M,2022
+uruguay,Export,Paraguay,$144.46M,2022
+uruguay,Export,Egypt,$138.52M,2022
+venezuela,Export,United States,$550.15M,2013
+venezuela,Export,China,$254.07M,2013
+venezuela,Export,Colombia,$236.36M,2013
+venezuela,Export,Netherlands,$196.40M,2013
+venezuela,Export,Brazil,$172.98M,2013
+venezuela,Export,Belgium,$79.62M,2013
+venezuela,Export,Trinidad And Tobago,$61.60M,2013
+venezuela,Export,Chile,$55.58M,2013
+venezuela,Export,South Korea,$45.50M,2013
+venezuela,Export,Mexico,$42.13M,2013
+albania,Export,Italy,$1.88B,2023
+albania,Export,Serbia,$505.18M,2023
+albania,Export,Greece,$284.74M,2023
+albania,Export,Germany,$229.55M,2023
+albania,Export,Spain,$187.77M,2023
+albania,Export,Macedonia,$158.93M,2023
+albania,Export,China,$100.09M,2023
+albania,Export,United States,$97.83M,2023
+albania,Export,Montenegro,$95.65M,2023
+albania,Export,Slovakia,$63.95M,2023
+andorra,Export,Spain,$110.95M,2023
+andorra,Export,France,$31.64M,2023
+andorra,Export,United Kingdom,$10.26M,2023
+andorra,Export,United Arab Emirates,$6.61M,2023
+andorra,Export,Norway,$4.31M,2023
+andorra,Export,Hong Kong,$3.72M,2023
+andorra,Export,Turkey,$3.72M,2023
+andorra,Export,Italy,$2.57M,2023
+andorra,Export,Netherlands,$2.40M,2023
+andorra,Export,Algeria,$2.03M,2023
+austria,Export,Germany,$62.79B,2023
+austria,Export,United States,$15.57B,2023
+austria,Export,Italy,$13.17B,2023
+austria,Export,Switzerland,$11.16B,2023
+austria,Export,Belgium,$8.12B,2023
+austria,Export,Poland,$7.86B,2023
+austria,Export,France,$7.83B,2023
+austria,Export,Czech Republic,$7.77B,2023
+austria,Export,Hungary,$7.72B,2023
+austria,Export,United Kingdom,$5.89B,2023
+belarus,Export,Russia,$13.97B,2021
+belarus,Export,Poland,$1.58B,2021
+belarus,Export,Ukraine,$1.21B,2021
+belarus,Export,Lithuania,$1.19B,2021
+belarus,Export,Germany,$790.03M,2021
+belarus,Export,Kazakhstan,$764.95M,2021
+belarus,Export,China,$556.10M,2021
+belarus,Export,Latvia,$467.10M,2021
+belarus,Export,Netherlands,$280.31M,2021
+belarus,Export,Uzbekistan,$181.64M,2021
+belgium,Export,Germany,$57.48B,2024
+belgium,Export,Netherlands,$48.80B,2024
+belgium,Export,France,$48.03B,2024
+belgium,Export,United States,$29.67B,2024
+belgium,Export,United Kingdom,$23.86B,2024
+belgium,Export,Italy,$17.21B,2024
+belgium,Export,Spain,$12.14B,2024
+belgium,Export,Poland,$10.81B,2024
+belgium,Export,Luxembourg,$6.82B,2024
+belgium,Export,China,$6.73B,2024
+bosnia-and-herzegovina,Export,Germany,$1.48B,2023
+bosnia-and-herzegovina,Export,Croatia,$1.41B,2023
+bosnia-and-herzegovina,Export,Serbia,$1.22B,2023
+bosnia-and-herzegovina,Export,Austria,$948.00M,2023
+bosnia-and-herzegovina,Export,Italy,$800.88M,2023
+bosnia-and-herzegovina,Export,Slovenia,$749.46M,2023
+bosnia-and-herzegovina,Export,Montenegro,$381.43M,2023
+bosnia-and-herzegovina,Export,Netherlands,$229.93M,2023
+bosnia-and-herzegovina,Export,France,$185.91M,2023
+bosnia-and-herzegovina,Export,Hungary,$159.25M,2023
+bulgaria,Export,Germany,$6.55B,2023
+bulgaria,Export,Romania,$4.41B,2023
+bulgaria,Export,Italy,$3.44B,2023
+bulgaria,Export,Turkey,$2.76B,2023
+bulgaria,Export,Greece,$2.65B,2023
+bulgaria,Export,France,$1.57B,2023
+bulgaria,Export,Belgium,$1.51B,2023
+bulgaria,Export,Spain,$1.25B,2023
+bulgaria,Export,Serbia,$1.17B,2023
+bulgaria,Export,United States,$1.14B,2023
+croatia,Export,Italy,$3.01B,2023
+croatia,Export,Germany,$3.01B,2023
+croatia,Export,Slovenia,$2.76B,2023
+croatia,Export,Bosnia And Herzegovina,$2.49B,2023
+croatia,Export,Hungary,$1.69B,2023
+croatia,Export,Serbia,$1.55B,2023
+croatia,Export,Austria,$1.38B,2023
+croatia,Export,United States,$632.56M,2023
+croatia,Export,France,$628.56M,2023
+croatia,Export,Poland,$606.71M,2023
+cyprus,Export,Libya,$775.25M,2023
+cyprus,Export,Lebanon,$481.04M,2023
+cyprus,Export,Bermuda,$402.96M,2023
+cyprus,Export,Greece,$304.76M,2023
+cyprus,Export,Marshall Islands,$293.56M,2023
+cyprus,Export,United Kingdom,$237.77M,2023
+cyprus,Export,Liberia,$224.52M,2023
+cyprus,Export,Hong Kong,$174.12M,2023
+cyprus,Export,Nigeria,$156.13M,2023
+cyprus,Export,United States,$147.84M,2023
+czech-republic,Export,Germany,$83.52B,2024
+czech-republic,Export,Slovakia,$19.35B,2024
+czech-republic,Export,Poland,$19.31B,2024
+czech-republic,Export,France,$12.11B,2024
+czech-republic,Export,United Kingdom,$10.94B,2024
+czech-republic,Export,Austria,$10.43B,2024
+czech-republic,Export,Italy,$10.18B,2024
+czech-republic,Export,Hungary,$9.12B,2024
+czech-republic,Export,Netherlands,$8.31B,2024
+czech-republic,Export,United States,$6.78B,2024
+denmark,Export,Germany,$18.08B,2024
+denmark,Export,Sweden,$10.59B,2024
+denmark,Export,Netherlands,$7.85B,2024
+denmark,Export,United States,$7.12B,2024
+denmark,Export,Norway,$7.03B,2024
+denmark,Export,United Kingdom,$5.73B,2024
+denmark,Export,Poland,$5.29B,2024
+denmark,Export,France,$4.51B,2024
+denmark,Export,China,$3.21B,2024
+denmark,Export,Italy,$2.66B,2024
+estonia,Export,Finland,$3.01B,2024
+estonia,Export,Latvia,$2.12B,2024
+estonia,Export,Sweden,$1.69B,2024
+estonia,Export,Lithuania,$1.54B,2024
+estonia,Export,Germany,$1.39B,2024
+estonia,Export,Russia,$1.03B,2024
+estonia,Export,United States,$794.23M,2024
+estonia,Export,Netherlands,$736.30M,2024
+estonia,Export,Poland,$697.24M,2024
+estonia,Export,Norway,$622.54M,2024
+finland,Export,Germany,$8.73B,2024
+finland,Export,Sweden,$8.67B,2024
+finland,Export,United States,$7.50B,2024
+finland,Export,Netherlands,$5.89B,2024
+finland,Export,China,$3.71B,2024
+finland,Export,Estonia,$2.70B,2024
+finland,Export,Poland,$2.63B,2024
+finland,Export,Belgium,$2.60B,2024
+finland,Export,United Kingdom,$2.58B,2024
+finland,Export,Norway,$2.53B,2024
+greece,Export,Italy,$5.62B,2024
+greece,Export,Germany,$3.74B,2024
+greece,Export,Cyprus,$3.34B,2024
+greece,Export,Bulgaria,$3.07B,2024
+greece,Export,United States,$2.61B,2024
+greece,Export,United Kingdom,$2.12B,2024
+greece,Export,Romania,$1.92B,2024
+greece,Export,Spain,$1.68B,2024
+greece,Export,Turkey,$1.64B,2024
+greece,Export,France,$1.57B,2024
+hungary,Export,Germany,$41.71B,2024
+hungary,Export,Romania,$9.33B,2024
+hungary,Export,Poland,$8.90B,2024
+hungary,Export,Italy,$8.63B,2024
+hungary,Export,Slovakia,$8.40B,2024
+hungary,Export,France,$7.09B,2024
+hungary,Export,Czech Republic,$7.06B,2024
+hungary,Export,United States,$6.92B,2024
+hungary,Export,Austria,$6.63B,2024
+hungary,Export,United Kingdom,$6.25B,2024
+iceland,Export,Netherlands,$2.28B,2024
+iceland,Export,United States,$800.50M,2024
+iceland,Export,United Kingdom,$667.35M,2024
+iceland,Export,France,$490.32M,2024
+iceland,Export,Norway,$376.42M,2024
+iceland,Export,Germany,$345.50M,2024
+iceland,Export,Spain,$317.71M,2024
+iceland,Export,Denmark,$168.94M,2024
+iceland,Export,Poland,$165.04M,2024
+iceland,Export,Portugal,$152.54M,2024
+ireland,Export,United States,$78.61B,2024
+ireland,Export,Netherlands,$24.89B,2024
+ireland,Export,United Kingdom,$22.58B,2024
+ireland,Export,Germany,$21.79B,2024
+ireland,Export,Belgium,$18.43B,2024
+ireland,Export,China,$10.26B,2024
+ireland,Export,Italy,$7.66B,2024
+ireland,Export,France,$6.98B,2024
+ireland,Export,Spain,$5.62B,2024
+ireland,Export,Canada,$4.42B,2024
+latvia,Export,Lithuania,$3.67B,2024
+latvia,Export,Estonia,$2.39B,2024
+latvia,Export,Germany,$1.32B,2024
+latvia,Export,Sweden,$1.12B,2024
+latvia,Export,Russia,$1.11B,2024
+latvia,Export,United Kingdom,$1.07B,2024
+latvia,Export,Poland,$874.26M,2024
+latvia,Export,Denmark,$860.47M,2024
+latvia,Export,Netherlands,$670.17M,2024
+latvia,Export,Finland,$599.15M,2024
+lithuania,Export,Latvia,$4.59B,2023
+lithuania,Export,Poland,$3.94B,2023
+lithuania,Export,Germany,$3.31B,2023
+lithuania,Export,Netherlands,$2.53B,2023
+lithuania,Export,Estonia,$2.32B,2023
+lithuania,Export,Russia,$2.32B,2023
+lithuania,Export,United States,$2.04B,2023
+lithuania,Export,Belarus,$1.84B,2023
+lithuania,Export,Sweden,$1.70B,2023
+lithuania,Export,United Kingdom,$1.62B,2023
+luxembourg,Export,Germany,$4.15B,2023
+luxembourg,Export,France,$2.54B,2023
+luxembourg,Export,Belgium,$2.00B,2023
+luxembourg,Export,Netherlands,$1.09B,2023
+luxembourg,Export,Italy,$725.49M,2023
+luxembourg,Export,United States,$515.33M,2023
+luxembourg,Export,Spain,$445.68M,2023
+luxembourg,Export,Poland,$417.98M,2023
+luxembourg,Export,United Kingdom,$406.12M,2023
+luxembourg,Export,Austria,$312.28M,2023
+malta,Export,Germany,$931.76M,2023
+malta,Export,Japan,$207.18M,2023
+malta,Export,Italy,$186.38M,2023
+malta,Export,Hong Kong,$155.08M,2023
+malta,Export,Singapore,$154.26M,2023
+malta,Export,United States,$135.53M,2023
+malta,Export,United Kingdom,$107.00M,2023
+malta,Export,Spain,$80.40M,2023
+malta,Export,Ghana,$75.83M,2023
+malta,Export,Croatia,$64.69M,2023
+moldova,Export,Romania,$1.42B,2023
+moldova,Export,Ukraine,$595.30M,2023
+moldova,Export,Italy,$260.02M,2023
+moldova,Export,Germany,$221.32M,2023
+moldova,Export,Czech Republic,$160.92M,2023
+moldova,Export,Russia,$144.10M,2023
+moldova,Export,Turkey,$142.32M,2023
+moldova,Export,Poland,$133.58M,2023
+moldova,Export,Bulgaria,$86.14M,2023
+moldova,Export,Belarus,$84.06M,2023
+montenegro,Export,Serbia,$206.36M,2023
+montenegro,Export,Bosnia And Herzegovina,$81.66M,2023
+montenegro,Export,Slovenia,$79.44M,2023
+montenegro,Export,Czech Republic,$32.10M,2023
+montenegro,Export,Hong Kong,$31.16M,2023
+montenegro,Export,Luxembourg,$30.28M,2023
+montenegro,Export,Switzerland,$27.12M,2023
+montenegro,Export,Albania,$24.16M,2023
+montenegro,Export,Germany,$23.19M,2023
+montenegro,Export,Italy,$19.33M,2023
+norway,Export,United Kingdom,$31.56B,2024
+norway,Export,Germany,$26.13B,2024
+norway,Export,Netherlands,$17.86B,2024
+norway,Export,Sweden,$11.64B,2024
+norway,Export,France,$10.48B,2024
+norway,Export,Poland,$9.83B,2024
+norway,Export,Belgium,$8.77B,2024
+norway,Export,Denmark,$8.24B,2024
+norway,Export,United States,$5.79B,2024
+norway,Export,Finland,$5.65B,2024
+poland,Export,Germany,$102.93B,2024
+poland,Export,Czech Republic,$23.19B,2024
+poland,Export,France,$23.13B,2024
+poland,Export,United Kingdom,$20.08B,2024
+poland,Export,Netherlands,$17.55B,2024
+poland,Export,Italy,$17.29B,2024
+poland,Export,Ukraine,$14.23B,2024
+poland,Export,United States,$12.59B,2024
+poland,Export,Spain,$11.02B,2024
+poland,Export,Slovakia,$10.15B,2024
+portugal,Export,Spain,$22.31B,2024
+portugal,Export,Germany,$10.56B,2024
+portugal,Export,France,$10.46B,2024
+portugal,Export,United States,$5.76B,2024
+portugal,Export,United Kingdom,$3.91B,2024
+portugal,Export,Italy,$3.79B,2024
+portugal,Export,Netherlands,$3.08B,2024
+portugal,Export,Belgium,$2.21B,2024
+portugal,Export,Poland,$1.28B,2024
+portugal,Export,Morocco,$1.27B,2024
+romania,Export,Germany,$20.97B,2023
+romania,Export,Italy,$10.23B,2023
+romania,Export,France,$6.38B,2023
+romania,Export,Hungary,$5.70B,2023
+romania,Export,Bulgaria,$4.18B,2023
+romania,Export,Poland,$3.70B,2023
+romania,Export,Netherlands,$3.40B,2023
+romania,Export,Turkey,$3.31B,2023
+romania,Export,Spain,$3.25B,2023
+romania,Export,Czech Republic,$3.24B,2023
+serbia,Export,Germany,$4.66B,2023
+serbia,Export,Bosnia And Herzegovina,$2.13B,2023
+serbia,Export,Italy,$1.91B,2023
+serbia,Export,Hungary,$1.69B,2023
+serbia,Export,Romania,$1.56B,2023
+serbia,Export,Montenegro,$1.32B,2023
+serbia,Export,China,$1.24B,2023
+serbia,Export,Russia,$1.19B,2023
+serbia,Export,Czech Republic,$1.17B,2023
+serbia,Export,Croatia,$1.12B,2023
+slovakia,Export,Germany,$24.55B,2023
+slovakia,Export,Czech Republic,$14.12B,2023
+slovakia,Export,Poland,$8.58B,2023
+slovakia,Export,Hungary,$8.34B,2023
+slovakia,Export,France,$6.19B,2023
+slovakia,Export,Austria,$6.02B,2023
+slovakia,Export,Italy,$5.25B,2023
+slovakia,Export,United States,$5.24B,2023
+slovakia,Export,United Kingdom,$5.07B,2023
+slovakia,Export,China,$3.11B,2023
+slovenia,Export,Switzerland,$16.21B,2023
+slovenia,Export,Germany,$8.02B,2023
+slovenia,Export,Italy,$5.09B,2023
+slovenia,Export,Croatia,$4.66B,2023
+slovenia,Export,Austria,$3.38B,2023
+slovenia,Export,France,$1.97B,2023
+slovenia,Export,Serbia,$1.56B,2023
+slovenia,Export,Poland,$1.45B,2023
+slovenia,Export,Hungary,$1.32B,2023
+slovenia,Export,Russia,$1.19B,2023
+sweden,Export,Germany,$19.58B,2024
+sweden,Export,Norway,$18.83B,2024
+sweden,Export,United States,$17.05B,2024
+sweden,Export,Denmark,$13.24B,2024
+sweden,Export,Finland,$13.05B,2024
+sweden,Export,United Kingdom,$10.18B,2024
+sweden,Export,Netherlands,$10.15B,2024
+sweden,Export,Belgium,$9.09B,2024
+sweden,Export,France,$7.95B,2024
+sweden,Export,Poland,$7.53B,2024
+ukraine,Export,Poland,$4.76B,2023
+ukraine,Export,Romania,$3.76B,2023
+ukraine,Export,China,$2.41B,2023
+ukraine,Export,Turkey,$2.37B,2023
+ukraine,Export,Germany,$2.02B,2023
+ukraine,Export,Spain,$2.01B,2023
+ukraine,Export,Italy,$1.54B,2023
+ukraine,Export,Netherlands,$1.49B,2023
+ukraine,Export,Hungary,$1.18B,2023
+ukraine,Export,Egypt,$1.09B,2023
+algeria,Export,Italy,$5.21B,2016
+algeria,Export,Spain,$3.88B,2016
+algeria,Export,United States,$3.87B,2016
+algeria,Export,France,$3.42B,2016
+algeria,Export,Brazil,$1.62B,2016
+algeria,Export,Netherlands,$1.47B,2016
+algeria,Export,Turkey,$1.34B,2016
+algeria,Export,Canada,$1.30B,2016
+algeria,Export,United Kingdom,$1.06B,2016
+algeria,Export,Belgium,$987.32M,2016
+angola,Export,China,$18.43B,2023
+angola,Export,Spain,$2.97B,2023
+angola,Export,Netherlands,$2.40B,2023
+angola,Export,India,$2.34B,2023
+angola,Export,France,$1.88B,2023
+angola,Export,Republic of the Congo,$1.24B,2023
+angola,Export,Indonesia,$1.21B,2023
+angola,Export,United Arab Emirates,$1.17B,2023
+angola,Export,Italy,$930.20M,2023
+angola,Export,Malaysia,$740.22M,2023
+benin,Export,Bangladesh,$406.24M,2022
+benin,Export,India,$107.85M,2022
+benin,Export,China,$55.49M,2022
+benin,Export,Egypt,$39.93M,2022
+benin,Export,Pakistan,$37.46M,2022
+benin,Export,Togo,$35.16M,2022
+benin,Export,Chad,$28.03M,2022
+benin,Export,Vietnam,$22.02M,2022
+benin,Export,Nigeria,$14.41M,2022
+benin,Export,Niger,$12.37M,2022
+botswana,Export,United Arab Emirates,$1.64B,2023
+botswana,Export,Belgium,$985.87M,2023
+botswana,Export,India,$674.19M,2023
+botswana,Export,South Africa,$652.97M,2023
+botswana,Export,China,$351.72M,2023
+botswana,Export,Hong Kong,$322.88M,2023
+botswana,Export,Israel,$215.07M,2023
+botswana,Export,Australia,$121.19M,2023
+botswana,Export,United States,$111.89M,2023
+botswana,Export,Singapore,$97.85M,2023
+burkina-faso,Export,Switzerland,$3.17B,2024
+burkina-faso,Export,United Arab Emirates,$1.48B,2024
+burkina-faso,Export,Ivory Coast,$163.51M,2024
+burkina-faso,Export,Mali,$129.92M,2024
+burkina-faso,Export,Ghana,$84.32M,2024
+burkina-faso,Export,Togo,$59.94M,2024
+burkina-faso,Export,South Africa,$55.19M,2024
+burkina-faso,Export,India,$54.27M,2024
+burkina-faso,Export,Greece,$54.01M,2024
+burkina-faso,Export,Singapore,$46.07M,2024
+burundi,Export,United Arab Emirates,$58.27M,2022
+burundi,Export,Congo,$38.75M,2022
+burundi,Export,Switzerland,$19.69M,2022
+burundi,Export,Belgium,$16.70M,2022
+burundi,Export,Pakistan,$10.14M,2022
+burundi,Export,Tanzania,$9.92M,2022
+burundi,Export,Sudan,$9.21M,2022
+burundi,Export,Egypt,$5.13M,2022
+burundi,Export,Oman,$4.43M,2022
+burundi,Export,United Kingdom,$4.20M,2022
+cameroon,Export,China,$1.11B,2021
+cameroon,Export,Netherlands,$532.92M,2021
+cameroon,Export,India,$415.34M,2021
+cameroon,Export,Italy,$307.22M,2021
+cameroon,Export,Spain,$262.50M,2021
+cameroon,Export,Bangladesh,$171.37M,2021
+cameroon,Export,Chad,$158.77M,2021
+cameroon,Export,Belgium,$152.35M,2021
+cameroon,Export,France,$129.16M,2021
+cameroon,Export,United States,$113.28M,2021
+cape-verde,Export,Spain,$54.15M,2023
+cape-verde,Export,Portugal,$41.50M,2023
+cape-verde,Export,Togo,$11.63M,2023
+cape-verde,Export,Netherlands,$10.98M,2023
+cape-verde,Export,Italy,$9.50M,2023
+cape-verde,Export,France,$7.33M,2023
+cape-verde,Export,United Arab Emirates,$6.60M,2023
+cape-verde,Export,India,$5.52M,2023
+cape-verde,Export,Belgium,$4.42M,2023
+cape-verde,Export,Ghana,$3.44M,2023
+central-african-republic,Export,United Arab Emirates,$78.59M,2023
+central-african-republic,Export,Italy,$8.05M,2023
+central-african-republic,Export,France,$6.44M,2023
+central-african-republic,Export,China,$4.32M,2023
+central-african-republic,Export,Gabon,$4.21M,2023
+central-african-republic,Export,Vietnam,$2.06M,2023
+central-african-republic,Export,Germany,$1.82M,2023
+central-african-republic,Export,Cameroon,$1.46M,2023
+central-african-republic,Export,Spain,$1.38M,2023
+central-african-republic,Export,Turkey,$705.91K,2023
+comoros,Export,India,$8.49M,2021
+comoros,Export,Tanzania,$7.34M,2021
+comoros,Export,France,$6.72M,2021
+comoros,Export,United States,$1.97M,2021
+comoros,Export,Madagascar,$1.60M,2021
+comoros,Export,Germany,$1.60M,2021
+comoros,Export,United Arab Emirates,$1.02M,2021
+comoros,Export,United Kingdom,$836.51K,2021
+comoros,Export,Netherlands,$790.92K,2021
+comoros,Export,Mauritius,$707.78K,2021
+congo,Export,China,$15.97B,2023
+congo,Export,South Africa,$2.40B,2023
+congo,Export,Hong Kong,$2.34B,2023
+congo,Export,Mozambique,$1.58B,2023
+congo,Export,Singapore,$1.37B,2023
+congo,Export,Tanzania,$1.20B,2023
+congo,Export,United Arab Emirates,$1.03B,2023
+congo,Export,Switzerland,$584.82M,2023
+congo,Export,Vietnam,$392.64M,2023
+congo,Export,Zambia,$325.06M,2023
+djibouti,Export,Ethiopia,$4.00B,2023
+djibouti,Export,United Arab Emirates,$221.98M,2023
+djibouti,Export,China,$115.90M,2023
+djibouti,Export,France,$84.35M,2023
+djibouti,Export,United States,$76.02M,2023
+djibouti,Export,Yemen,$66.16M,2023
+djibouti,Export,Somalia,$53.99M,2023
+djibouti,Export,Oman,$37.89M,2023
+djibouti,Export,Turkey,$31.30M,2023
+djibouti,Export,Canada,$22.21M,2023
+egypt,Export,Turkey,$3.77B,2023
+egypt,Export,Italy,$3.14B,2023
+egypt,Export,Saudi Arabia,$2.68B,2023
+egypt,Export,United Arab Emirates,$2.21B,2023
+egypt,Export,United States,$1.95B,2023
+egypt,Export,Libya,$1.82B,2023
+egypt,Export,Spain,$1.76B,2023
+egypt,Export,Greece,$1.55B,2023
+egypt,Export,United Kingdom,$1.23B,2023
+egypt,Export,India,$1.18B,2023
+eritrea,Export,Singapore,$820.12K,2003
+eritrea,Export,Italy,$767.86K,2003
+eritrea,Export,Netherlands,$688.70K,2003
+eritrea,Export,India,$478.32K,2003
+eritrea,Export,Greece,$429.82K,2003
+eritrea,Export,Russia,$192.69K,2003
+eritrea,Export,Hong Kong,$187.40K,2003
+eritrea,Export,United Kingdom,$174.27K,2003
+eritrea,Export,France,$171.97K,2003
+eritrea,Export,Pakistan,$167.96K,2003
+ethiopia,Export,Saudi Arabia,$297.92M,2023
+ethiopia,Export,United States,$276.46M,2023
+ethiopia,Export,Netherlands,$218.71M,2023
+ethiopia,Export,United Arab Emirates,$163.90M,2023
+ethiopia,Export,Somalia,$142.16M,2023
+ethiopia,Export,India,$139.25M,2023
+ethiopia,Export,Germany,$135.40M,2023
+ethiopia,Export,China,$131.65M,2023
+ethiopia,Export,South Korea,$116.13M,2023
+ethiopia,Export,Japan,$104.12M,2023
+gabon,Export,China,$3.52B,2023
+gabon,Export,France,$1.34B,2023
+gabon,Export,Spain,$755.06M,2023
+gabon,Export,Netherlands,$723.99M,2023
+gabon,Export,Israel,$679.84M,2023
+gabon,Export,Malaysia,$631.40M,2023
+gabon,Export,Italy,$593.99M,2023
+gabon,Export,India,$588.40M,2023
+gabon,Export,Republic of the Congo,$574.03M,2023
+gabon,Export,Indonesia,$573.35M,2023
+gambia,Export,Guinea Bissau,$59.27M,2023
+gambia,Export,Mali,$8.85M,2023
+gambia,Export,China,$5.78M,2023
+gambia,Export,India,$2.35M,2023
+gambia,Export,Senegal,$1.32M,2023
+gambia,Export,United Kingdom,$1.19M,2023
+gambia,Export,Vietnam,$838.68K,2023
+gambia,Export,Spain,$745.44K,2023
+gambia,Export,Turkey,$619.33K,2023
+gambia,Export,South Korea,$563.30K,2023
+ghana,Export,Switzerland,$3.08B,2023
+ghana,Export,South Africa,$1.97B,2023
+ghana,Export,United Arab Emirates,$1.71B,2023
+ghana,Export,China,$1.38B,2023
+ghana,Export,India,$1.18B,2023
+ghana,Export,Canada,$855.49M,2023
+ghana,Export,United States,$787.79M,2023
+ghana,Export,Netherlands,$664.14M,2023
+ghana,Export,Italy,$621.43M,2023
+ghana,Export,Brazil,$523.25M,2023
+guinea,Export,China,$53.76B,2017
+guinea,Export,Belgium,$4.24B,2017
+guinea,Export,Singapore,$1.03B,2017
+guinea,Export,United Arab Emirates,$923.20M,2017
+guinea,Export,United States,$630.25M,2017
+guinea,Export,Ghana,$388.43M,2017
+guinea,Export,India,$305.82M,2017
+guinea,Export,Spain,$114.62M,2017
+guinea,Export,France,$113.47M,2017
+guinea,Export,Ireland,$108.72M,2017
+guinea-bissau,Export,India,$20.13M,2005
+guinea-bissau,Export,Singapore,$2.81M,2005
+guinea-bissau,Export,Portugal,$121.21K,2005
+guinea-bissau,Export,Netherlands,$58.23K,2005
+guinea-bissau,Export,Panama,$49.77K,2005
+guinea-bissau,Export,North Korea,$47.84K,2005
+guinea-bissau,Export,Gambia,$8.18K,2005
+guinea-bissau,Export,United States,$4.75K,2005
+guinea-bissau,Export,Senegal,$4.42K,2005
+guinea-bissau,Export,Cape Verde,$1.59K,2005
+ivory-coast,Export,Netherlands,$2.11B,2023
+ivory-coast,Export,Switzerland,$1.95B,2023
+ivory-coast,Export,Mali,$1.59B,2023
+ivory-coast,Export,Malaysia,$912.42M,2023
+ivory-coast,Export,Vietnam,$912.23M,2023
+ivory-coast,Export,Burkina Faso,$792.41M,2023
+ivory-coast,Export,China,$776.71M,2023
+ivory-coast,Export,United States,$767.94M,2023
+ivory-coast,Export,France,$672.99M,2023
+ivory-coast,Export,Germany,$650.01M,2023
+kenya,Export,Uganda,$896.60M,2023
+kenya,Export,Pakistan,$563.22M,2023
+kenya,Export,Netherlands,$544.20M,2023
+kenya,Export,Tanzania,$487.64M,2023
+kenya,Export,United States,$458.58M,2023
+kenya,Export,United Arab Emirates,$399.08M,2023
+kenya,Export,United Kingdom,$390.22M,2023
+kenya,Export,Rwanda,$301.94M,2023
+kenya,Export,South Sudan,$226.69M,2023
+kenya,Export,Egypt,$222.76M,2023
+lesotho,Export,South Africa,$444.96M,2023
+lesotho,Export,Belgium,$195.87M,2023
+lesotho,Export,United States,$156.65M,2023
+lesotho,Export,Swaziland,$7.41M,2023
+lesotho,Export,Germany,$5.72M,2023
+lesotho,Export,Canada,$5.06M,2023
+lesotho,Export,United Kingdom,$2.94M,2023
+lesotho,Export,Egypt,$2.58M,2023
+lesotho,Export,Botswana,$1.75M,2023
+lesotho,Export,Mozambique,$1.12M,2023
+liberia,Export,United States,$57.56M,2023
+liberia,Export,Belgium,$32.94M,2023
+liberia,Export,Cameroon,$10.58M,2023
+liberia,Export,Ghana,$7.55M,2023
+liberia,Export,Singapore,$6.79M,2023
+liberia,Export,United Kingdom,$4.53M,2023
+liberia,Export,Malaysia,$3.95M,2023
+liberia,Export,United Arab Emirates,$3.76M,2023
+liberia,Export,Spain,$3.15M,2023
+liberia,Export,Morocco,$2.69M,2023
+libya,Export,Italy,$9.73B,2019
+libya,Export,China,$6.58B,2019
+libya,Export,Spain,$3.41B,2019
+libya,Export,France,$1.47B,2019
+libya,Export,United Arab Emirates,$1.21B,2019
+libya,Export,United States,$776.64M,2019
+libya,Export,Denmark,$739.38M,2019
+libya,Export,Greece,$693.56M,2019
+libya,Export,Netherlands,$661.61M,2019
+libya,Export,Australia,$570.62M,2019
+madagascar,Export,France,$475.69M,2023
+madagascar,Export,United States,$412.89M,2023
+madagascar,Export,Japan,$270.82M,2023
+madagascar,Export,South Korea,$270.66M,2023
+madagascar,Export,China,$267.50M,2023
+madagascar,Export,Netherlands,$207.43M,2023
+madagascar,Export,Turkey,$135.61M,2023
+madagascar,Export,India,$132.97M,2023
+madagascar,Export,Canada,$111.82M,2023
+madagascar,Export,Indonesia,$101.71M,2023
+malawi,Export,Belgium,$153.86M,2023
+malawi,Export,Tanzania,$104.76M,2023
+malawi,Export,China,$54.43M,2023
+malawi,Export,South Africa,$51.68M,2023
+malawi,Export,Zimbabwe,$51.11M,2023
+malawi,Export,Zambia,$44.97M,2023
+malawi,Export,India,$44.44M,2023
+malawi,Export,United States,$40.39M,2023
+malawi,Export,United Kingdom,$38.25M,2023
+malawi,Export,Kenya,$30.50M,2023
+mali,Export,South Africa,$1.33B,2019
+mali,Export,Switzerland,$1.30B,2019
+mali,Export,Bangladesh,$258.61M,2019
+mali,Export,Ivory Coast,$154.44M,2019
+mali,Export,Burkina Faso,$100.68M,2019
+mali,Export,Senegal,$97.43M,2019
+mali,Export,India,$55.26M,2019
+mali,Export,Malaysia,$36.54M,2019
+mali,Export,China,$32.90M,2019
+mali,Export,Denmark,$31.62M,2019
+mauritania,Export,Canada,$993.82M,2023
+mauritania,Export,China,$922.34M,2023
+mauritania,Export,Algeria,$332.00M,2023
+mauritania,Export,Switzerland,$299.01M,2023
+mauritania,Export,Spain,$250.44M,2023
+mauritania,Export,United Arab Emirates,$226.36M,2023
+mauritania,Export,Italy,$153.39M,2023
+mauritania,Export,Japan,$142.64M,2023
+mauritania,Export,Australia,$106.31M,2023
+mauritania,Export,Netherlands,$84.81M,2023
+mauritius,Export,France,$272.93M,2023
+mauritius,Export,South Africa,$199.98M,2023
+mauritius,Export,United States,$175.11M,2023
+mauritius,Export,United Kingdom,$171.63M,2023
+mauritius,Export,Madagascar,$135.95M,2023
+mauritius,Export,Spain,$126.11M,2023
+mauritius,Export,Italy,$85.94M,2023
+mauritius,Export,Vietnam,$73.10M,2023
+mauritius,Export,Netherlands,$68.32M,2023
+mauritius,Export,India,$54.75M,2023
+morocco,Export,Spain,$9.57B,2023
+morocco,Export,France,$8.70B,2023
+morocco,Export,Italy,$2.20B,2023
+morocco,Export,United Kingdom,$1.89B,2023
+morocco,Export,Germany,$1.82B,2023
+morocco,Export,United States,$1.25B,2023
+morocco,Export,India,$1.22B,2023
+morocco,Export,Brazil,$1.20B,2023
+morocco,Export,Turkey,$1.17B,2023
+morocco,Export,Netherlands,$920.94M,2023
+mozambique,Export,India,$1.29B,2023
+mozambique,Export,China,$1.18B,2023
+mozambique,Export,South Africa,$1.16B,2023
+mozambique,Export,South Korea,$466.58M,2023
+mozambique,Export,United Kingdom,$399.82M,2023
+mozambique,Export,Singapore,$390.28M,2023
+mozambique,Export,Thailand,$380.14M,2023
+mozambique,Export,Vietnam,$324.32M,2023
+mozambique,Export,Netherlands,$304.76M,2023
+mozambique,Export,Italy,$244.00M,2023
+namibia,Export,Botswana,$1.06B,2023
+namibia,Export,South Africa,$1.02B,2023
+namibia,Export,China,$684.18M,2023
+namibia,Export,Zambia,$309.28M,2023
+namibia,Export,Belgium,$293.20M,2023
+namibia,Export,Spain,$275.43M,2023
+namibia,Export,United Arab Emirates,$235.19M,2023
+namibia,Export,Netherlands,$181.84M,2023
+namibia,Export,Congo,$154.62M,2023
+namibia,Export,France,$149.37M,2023
+niger,Export,France,$207.16M,2023
+niger,Export,United Arab Emirates,$99.68M,2023
+niger,Export,Mali,$50.80M,2023
+niger,Export,Burkina Faso,$35.45M,2023
+niger,Export,Chad,$16.44M,2023
+niger,Export,Nigeria,$14.38M,2023
+niger,Export,South Africa,$11.73M,2023
+niger,Export,Ghana,$11.32M,2023
+niger,Export,Germany,$5.71M,2023
+niger,Export,Benin,$5.18M,2023
+nigeria,Export,Netherlands,$8.18B,2023
+nigeria,Export,Spain,$6.13B,2023
+nigeria,Export,India,$5.45B,2023
+nigeria,Export,United States,$4.86B,2023
+nigeria,Export,Indonesia,$4.26B,2023
+nigeria,Export,France,$4.26B,2023
+nigeria,Export,Canada,$3.87B,2023
+nigeria,Export,Ivory Coast,$2.62B,2023
+nigeria,Export,United Kingdom,$2.55B,2023
+nigeria,Export,Italy,$2.52B,2023
+republic-of-the-congo,Export,China,$3.74B,2022
+republic-of-the-congo,Export,Togo,$1.09B,2022
+republic-of-the-congo,Export,India,$921.72M,2022
+republic-of-the-congo,Export,Portugal,$849.16M,2022
+republic-of-the-congo,Export,Singapore,$328.62M,2022
+republic-of-the-congo,Export,Netherlands,$323.28M,2022
+republic-of-the-congo,Export,Angola,$317.84M,2022
+republic-of-the-congo,Export,United Arab Emirates,$162.20M,2022
+republic-of-the-congo,Export,Norway,$123.29M,2022
+republic-of-the-congo,Export,South Korea,$117.55M,2022
+rwanda,Export,Congo,$768.27M,2022
+rwanda,Export,United Arab Emirates,$590.30M,2022
+rwanda,Export,China,$96.76M,2022
+rwanda,Export,India,$71.18M,2022
+rwanda,Export,United Kingdom,$46.46M,2022
+rwanda,Export,Hong Kong,$39.45M,2022
+rwanda,Export,Pakistan,$38.86M,2022
+rwanda,Export,Ethiopia,$36.53M,2022
+rwanda,Export,Singapore,$32.72M,2022
+rwanda,Export,United States,$23.70M,2022
+sao-tome-and-principe,Export,Netherlands,$9.99M,2023
+sao-tome-and-principe,Export,Belgium,$3.42M,2023
+sao-tome-and-principe,Export,Portugal,$784.42K,2023
+sao-tome-and-principe,Export,Germany,$532.38K,2023
+sao-tome-and-principe,Export,Spain,$521.66K,2023
+sao-tome-and-principe,Export,Cameroon,$311.23K,2023
+sao-tome-and-principe,Export,France,$300.48K,2023
+sao-tome-and-principe,Export,Bulgaria,$203.52K,2023
+sao-tome-and-principe,Export,Estonia,$125.57K,2023
+sao-tome-and-principe,Export,United States,$87.88K,2023
+senegal,Export,Mali,$1.22B,2023
+senegal,Export,Switzerland,$645.74M,2023
+senegal,Export,India,$544.41M,2023
+senegal,Export,China,$223.79M,2023
+senegal,Export,Gambia,$186.05M,2023
+senegal,Export,Ivory Coast,$174.39M,2023
+senegal,Export,Australia,$171.64M,2023
+senegal,Export,Spain,$164.04M,2023
+senegal,Export,Guinea Bissau,$157.40M,2023
+senegal,Export,United States,$156.62M,2023
+seychelles,Export,United Arab Emirates,$196.83M,2023
+seychelles,Export,France,$126.38M,2023
+seychelles,Export,United Kingdom,$55.12M,2023
+seychelles,Export,Italy,$40.71M,2023
+seychelles,Export,Singapore,$38.09M,2023
+seychelles,Export,Germany,$27.77M,2023
+seychelles,Export,Ivory Coast,$7.84M,2023
+seychelles,Export,Hong Kong,$6.78M,2023
+seychelles,Export,Spain,$5.79M,2023
+seychelles,Export,Netherlands,$5.71M,2023
+sierra-leone,Export,China,$37.48M,2018
+sierra-leone,Export,South Korea,$28.68M,2018
+sierra-leone,Export,Netherlands,$27.83M,2018
+sierra-leone,Export,Somalia,$22.19M,2018
+sierra-leone,Export,Ghana,$16.52M,2018
+sierra-leone,Export,Romania,$15.95M,2018
+sierra-leone,Export,Germany,$10.86M,2018
+sierra-leone,Export,Guinea,$9.23M,2018
+sierra-leone,Export,Senegal,$6.14M,2018
+sierra-leone,Export,Ivory Coast,$3.93M,2018
+sudan,Export,United Arab Emirates,$993.83M,2018
+sudan,Export,China,$735.69M,2018
+sudan,Export,Saudi Arabia,$588.49M,2018
+sudan,Export,Egypt,$580.35M,2018
+sudan,Export,India,$97.29M,2018
+sudan,Export,Ethiopia,$89.59M,2018
+sudan,Export,Turkey,$72.05M,2018
+sudan,Export,Pakistan,$60.62M,2018
+sudan,Export,France,$52.24M,2018
+sudan,Export,Qatar,$34.32M,2018
+swaziland,Export,South Africa,$1.41B,2023
+swaziland,Export,Kenya,$89.64M,2023
+swaziland,Export,Mozambique,$82.00M,2023
+swaziland,Export,Nigeria,$70.11M,2023
+swaziland,Export,Zimbabwe,$47.78M,2023
+swaziland,Export,Tanzania,$35.55M,2023
+swaziland,Export,Uganda,$34.16M,2023
+swaziland,Export,Italy,$33.98M,2023
+swaziland,Export,Botswana,$33.87M,2023
+swaziland,Export,United States,$29.20M,2023
+tanzania,Export,India,$1.55B,2023
+tanzania,Export,South Africa,$1.12B,2023
+tanzania,Export,United Arab Emirates,$686.44M,2023
+tanzania,Export,Switzerland,$465.88M,2023
+tanzania,Export,China,$427.89M,2023
+tanzania,Export,Congo,$312.81M,2023
+tanzania,Export,Uganda,$311.17M,2023
+tanzania,Export,Belgium,$206.74M,2023
+tanzania,Export,Rwanda,$188.08M,2023
+tanzania,Export,Kenya,$176.52M,2023
+togo,Export,India,$208.16M,2024
+togo,Export,Ivory Coast,$160.47M,2024
+togo,Export,Burkina Faso,$159.39M,2024
+togo,Export,Mali,$106.98M,2024
+togo,Export,France,$96.02M,2024
+togo,Export,Benin,$95.91M,2024
+togo,Export,Ghana,$87.92M,2024
+togo,Export,Niger,$64.18M,2024
+togo,Export,United States,$49.34M,2024
+togo,Export,Senegal,$37.68M,2024
+tunisia,Export,France,$4.57B,2023
+tunisia,Export,Italy,$3.67B,2023
+tunisia,Export,Germany,$2.64B,2023
+tunisia,Export,Spain,$1.06B,2023
+tunisia,Export,Libya,$855.40M,2023
+tunisia,Export,United States,$627.16M,2023
+tunisia,Export,Netherlands,$458.15M,2023
+tunisia,Export,Algeria,$397.48M,2023
+tunisia,Export,Belgium,$349.02M,2023
+tunisia,Export,Switzerland,$318.48M,2023
+uganda,Export,United Arab Emirates,$1.37B,2023
+uganda,Export,Kenya,$736.83M,2023
+uganda,Export,India,$728.43M,2023
+uganda,Export,South Sudan,$536.46M,2023
+uganda,Export,Congo,$410.87M,2023
+uganda,Export,Hong Kong,$321.94M,2023
+uganda,Export,Rwanda,$280.22M,2023
+uganda,Export,Italy,$260.61M,2023
+uganda,Export,Germany,$212.69M,2023
+uganda,Export,Tanzania,$169.42M,2023
+zambia,Export,Switzerland,$4.32B,2023
+zambia,Export,China,$1.85B,2023
+zambia,Export,Congo,$1.60B,2023
+zambia,Export,Singapore,$561.78M,2023
+zambia,Export,South Africa,$391.00M,2023
+zambia,Export,Zimbabwe,$297.09M,2023
+zambia,Export,Botswana,$179.75M,2023
+zambia,Export,Namibia,$148.55M,2023
+zambia,Export,Tanzania,$138.03M,2023
+zambia,Export,Malawi,$135.93M,2023
+zimbabwe,Export,South Africa,$2.23B,2023
+zimbabwe,Export,United Arab Emirates,$1.91B,2023
+zimbabwe,Export,China,$1.28B,2023
+zimbabwe,Export,Mozambique,$397.70M,2023
+zimbabwe,Export,Belgium,$210.74M,2023
+zimbabwe,Export,Hong Kong,$171.03M,2023
+zimbabwe,Export,Zambia,$142.36M,2023
+zimbabwe,Export,Netherlands,$69.55M,2023
+zimbabwe,Export,Vietnam,$52.98M,2023
+zimbabwe,Export,Italy,$50.10M,2023
+afghanistan,Export,India,$410.14M,2019
+afghanistan,Export,Pakistan,$298.64M,2019
+afghanistan,Export,China,$31.00M,2019
+afghanistan,Export,Turkey,$25.15M,2019
+afghanistan,Export,United Arab Emirates,$24.94M,2019
+afghanistan,Export,Iran,$15.05M,2019
+afghanistan,Export,Iraq,$14.50M,2019
+afghanistan,Export,Germany,$11.70M,2019
+afghanistan,Export,Saudi Arabia,$9.43M,2019
+afghanistan,Export,Tajikistan,$5.08M,2019
+armenia,Export,United Arab Emirates,$5.25B,2024
+armenia,Export,Russia,$3.12B,2024
+armenia,Export,Hong Kong,$1.76B,2024
+armenia,Export,China,$1.10B,2024
+armenia,Export,Iraq,$246.14M,2024
+armenia,Export,Georgia,$155.37M,2024
+armenia,Export,Netherlands,$134.03M,2024
+armenia,Export,Belgium,$120.25M,2024
+armenia,Export,Belarus,$114.86M,2024
+armenia,Export,Switzerland,$111.62M,2024
+azerbaijan,Export,Italy,$10.88B,2024
+azerbaijan,Export,Turkey,$3.82B,2024
+azerbaijan,Export,Russia,$1.18B,2024
+azerbaijan,Export,Czech Republic,$1.09B,2024
+azerbaijan,Export,Croatia,$873.44M,2024
+azerbaijan,Export,Germany,$776.98M,2024
+azerbaijan,Export,India,$734.42M,2024
+azerbaijan,Export,Israel,$733.53M,2024
+azerbaijan,Export,Bulgaria,$683.05M,2024
+azerbaijan,Export,Georgia,$675.19M,2024
+bahrain,Export,Saudi Arabia,$2.91B,2023
+bahrain,Export,United Arab Emirates,$1.77B,2023
+bahrain,Export,United States,$1.04B,2023
+bahrain,Export,Netherlands,$539.84M,2023
+bahrain,Export,Egypt,$458.00M,2023
+bahrain,Export,India,$387.85M,2023
+bahrain,Export,Oman,$380.28M,2023
+bahrain,Export,Turkey,$369.37M,2023
+bahrain,Export,Kuwait,$314.92M,2023
+bahrain,Export,Algeria,$298.49M,2023
+bangladesh,Export,United States,$6.14B,2015
+bangladesh,Export,Germany,$4.67B,2015
+bangladesh,Export,United Kingdom,$3.50B,2015
+bangladesh,Export,Spain,$1.85B,2015
+bangladesh,Export,France,$1.76B,2015
+bangladesh,Export,Italy,$1.35B,2015
+bangladesh,Export,Canada,$1.06B,2015
+bangladesh,Export,Japan,$957.37M,2015
+bangladesh,Export,Belgium,$904.45M,2015
+bangladesh,Export,Netherlands,$817.50M,2015
+bhutan,Export,India,$497.72M,2012
+bhutan,Export,Bangladesh,$21.91M,2012
+bhutan,Export,Italy,$2.34M,2012
+bhutan,Export,Japan,$2.13M,2012
+bhutan,Export,Nepal,$2.01M,2012
+bhutan,Export,Hong Kong,$1.48M,2012
+bhutan,Export,Netherlands,$1.31M,2012
+bhutan,Export,Germany,$566.54K,2012
+bhutan,Export,Singapore,$381.60K,2012
+bhutan,Export,Bulgaria,$313.52K,2012
+brunei,Export,Australia,$2.43B,2023
+brunei,Export,Singapore,$1.92B,2023
+brunei,Export,China,$1.88B,2023
+brunei,Export,Japan,$1.56B,2023
+brunei,Export,Malaysia,$768.11M,2023
+brunei,Export,Thailand,$549.08M,2023
+brunei,Export,Indonesia,$330.90M,2023
+brunei,Export,South Korea,$301.28M,2023
+brunei,Export,Brazil,$262.25M,2023
+brunei,Export,Philippines,$258.24M,2023
+cambodia,Export,United States,$8.90B,2023
+cambodia,Export,Vietnam,$1.55B,2023
+cambodia,Export,China,$1.48B,2023
+cambodia,Export,Japan,$1.18B,2023
+cambodia,Export,Canada,$869.54M,2023
+cambodia,Export,Germany,$815.52M,2023
+cambodia,Export,United Kingdom,$796.39M,2023
+cambodia,Export,Spain,$713.47M,2023
+cambodia,Export,Singapore,$621.45M,2023
+cambodia,Export,Thailand,$566.92M,2023
+east-timor,Export,China,$76.21M,2023
+east-timor,Export,Singapore,$31.24M,2023
+east-timor,Export,Australia,$27.56M,2023
+east-timor,Export,Indonesia,$11.76M,2023
+east-timor,Export,Japan,$4.84M,2023
+east-timor,Export,United States,$2.62M,2023
+east-timor,Export,Philippines,$2.06M,2023
+east-timor,Export,Portugal,$1.84M,2023
+east-timor,Export,Sri Lanka,$1.50M,2023
+east-timor,Export,South Korea,$486.26K,2023
+georgia,Export,Kyrgyzstan,$1.29B,2024
+georgia,Export,Kazakhstan,$859.95M,2024
+georgia,Export,Azerbaijan,$724.53M,2024
+georgia,Export,Russia,$681.46M,2024
+georgia,Export,Armenia,$617.53M,2024
+georgia,Export,Turkey,$458.38M,2024
+georgia,Export,China,$303.13M,2024
+georgia,Export,Uzbekistan,$146.92M,2024
+georgia,Export,United States,$141.06M,2024
+georgia,Export,Bulgaria,$124.31M,2024
+hong-kong,Export,China,$329.90B,2023
+hong-kong,Export,United States,$34.84B,2023
+hong-kong,Export,India,$21.69B,2023
+hong-kong,Export,United Arab Emirates,$15.56B,2023
+hong-kong,Export,Vietnam,$14.43B,2023
+hong-kong,Export,Japan,$10.78B,2023
+hong-kong,Export,Thailand,$10.34B,2023
+hong-kong,Export,Netherlands,$9.90B,2023
+hong-kong,Export,Macau,$9.65B,2023
+hong-kong,Export,South Korea,$9.54B,2023
+iran,Export,China,$22.43B,2022
+iran,Export,Iraq,$7.34B,2022
+iran,Export,United Arab Emirates,$6.01B,2022
+iran,Export,Turkey,$5.78B,2022
+iran,Export,India,$1.89B,2022
+iran,Export,Afghanistan,$1.65B,2022
+iran,Export,Pakistan,$1.36B,2022
+iran,Export,Oman,$1.13B,2022
+iran,Export,Indonesia,$936.50M,2022
+iran,Export,Thailand,$752.05M,2022
+iraq,Export,Singapore,$79.29M,2016
+iraq,Export,United Arab Emirates,$5.24M,2016
+iraq,Export,Italy,$3.52M,2016
+iraq,Export,Lebanon,$1.41M,2016
+iraq,Export,Iran,$333.53K,2016
+iraq,Export,Egypt,$200K,2016
+iraq,Export,Jordan,$126K,2016
+iraq,Export,Sweden,$83.27K,2016
+iraq,Export,Germany,$30K,2016
+iraq,Export,Russia,$14K,2016
+israel,Export,United States,$17.36B,2024
+israel,Export,Ireland,$3.26B,2024
+israel,Export,China,$2.86B,2024
+israel,Export,Netherlands,$2.75B,2024
+israel,Export,Germany,$2.37B,2024
+israel,Export,India,$2.32B,2024
+israel,Export,Hong Kong,$2.01B,2024
+israel,Export,United Kingdom,$1.57B,2024
+israel,Export,Belgium,$1.51B,2024
+israel,Export,France,$1.43B,2024
+jordan,Export,United States,$2.88B,2023
+jordan,Export,India,$1.73B,2023
+jordan,Export,Saudi Arabia,$1.45B,2023
+jordan,Export,Iraq,$945.67M,2023
+jordan,Export,United Arab Emirates,$544.10M,2023
+jordan,Export,China,$358.53M,2023
+jordan,Export,Palestine,$337.85M,2023
+jordan,Export,Egypt,$225.40M,2023
+jordan,Export,Indonesia,$190.72M,2023
+jordan,Export,Kuwait,$187.12M,2023
+kazakhstan,Export,Italy,$14.84B,2023
+kazakhstan,Export,China,$14.76B,2023
+kazakhstan,Export,Russia,$9.79B,2023
+kazakhstan,Export,Netherlands,$4.06B,2023
+kazakhstan,Export,Turkey,$3.97B,2023
+kazakhstan,Export,South Korea,$3.81B,2023
+kazakhstan,Export,Uzbekistan,$3.14B,2023
+kazakhstan,Export,France,$2.95B,2023
+kazakhstan,Export,Romania,$2.77B,2023
+kazakhstan,Export,Greece,$2.22B,2023
+kuwait,Export,United Arab Emirates,$1.30B,2023
+kuwait,Export,India,$1.06B,2023
+kuwait,Export,Saudi Arabia,$705.44M,2023
+kuwait,Export,China,$590.90M,2023
+kuwait,Export,Iraq,$384.34M,2023
+kuwait,Export,Pakistan,$341.56M,2023
+kuwait,Export,Qatar,$241.30M,2023
+kuwait,Export,Egypt,$120.06M,2023
+kuwait,Export,Jordan,$108.36M,2023
+kuwait,Export,Oman,$98.20M,2023
+kyrgyzstan,Export,Switzerland,$1.09B,2023
+kyrgyzstan,Export,Russia,$746.37M,2023
+kyrgyzstan,Export,Kazakhstan,$455.59M,2023
+kyrgyzstan,Export,Uzbekistan,$290.68M,2023
+kyrgyzstan,Export,United Arab Emirates,$189.21M,2023
+kyrgyzstan,Export,Turkey,$148.36M,2023
+kyrgyzstan,Export,Hong Kong,$117.41M,2023
+kyrgyzstan,Export,China,$80.45M,2023
+kyrgyzstan,Export,Belarus,$27.18M,2023
+kyrgyzstan,Export,Iran,$25.43M,2023
+laos,Export,Thailand,$2.31B,2021
+laos,Export,China,$2.25B,2021
+laos,Export,Vietnam,$1.25B,2021
+laos,Export,Australia,$348.46M,2021
+laos,Export,Cambodia,$129.43M,2021
+laos,Export,Switzerland,$115.94M,2021
+laos,Export,Singapore,$91.96M,2021
+laos,Export,Hong Kong,$88.31M,2021
+laos,Export,Japan,$82.88M,2021
+laos,Export,Germany,$77.84M,2021
+lebanon,Export,United Arab Emirates,$1.01B,2023
+lebanon,Export,Turkey,$361.39M,2023
+lebanon,Export,Iraq,$236.30M,2023
+lebanon,Export,Egypt,$228.01M,2023
+lebanon,Export,United States,$212.32M,2023
+lebanon,Export,Switzerland,$149.35M,2023
+lebanon,Export,France,$128.55M,2023
+lebanon,Export,Syria,$126.09M,2023
+lebanon,Export,Cyprus,$111.59M,2023
+lebanon,Export,Qatar,$111.36M,2023
+macao,Export,Hong Kong,$1.10B,2021
+macao,Export,China,$180.35M,2021
+macao,Export,United States,$69.47M,2021
+macao,Export,Vietnam,$14.20M,2021
+macao,Export,Singapore,$7.12M,2021
+macao,Export,Canada,$1.79M,2021
+macao,Export,Germany,$1.58M,2021
+macao,Export,Philippines,$1.44M,2021
+macao,Export,Thailand,$1.18M,2021
+macao,Export,Japan,$1.13M,2021
+malaysia,Export,Singapore,$50.45B,2024
+malaysia,Export,United States,$43.43B,2024
+malaysia,Export,China,$41.01B,2024
+malaysia,Export,Hong Kong,$19.41B,2024
+malaysia,Export,Japan,$18.05B,2024
+malaysia,Export,Thailand,$12.89B,2024
+malaysia,Export,Indonesia,$11.89B,2024
+malaysia,Export,South Korea,$11.79B,2024
+malaysia,Export,Vietnam,$11.77B,2024
+malaysia,Export,India,$11.39B,2024
+maldives,Export,Thailand,$87.36M,2023
+maldives,Export,United Kingdom,$22.27M,2023
+maldives,Export,Germany,$12.70M,2023
+maldives,Export,France,$5.55M,2023
+maldives,Export,India,$5.11M,2023
+maldives,Export,Bangladesh,$3.29M,2023
+maldives,Export,Italy,$3.00M,2023
+maldives,Export,Vietnam,$2.97M,2023
+maldives,Export,Japan,$2.23M,2023
+maldives,Export,United States,$2.09M,2023
+mongolia,Export,China,$7.63B,2021
+mongolia,Export,Switzerland,$869.74M,2021
+mongolia,Export,Singapore,$254.09M,2021
+mongolia,Export,South Korea,$223.30M,2021
+mongolia,Export,Russia,$112.78M,2021
+mongolia,Export,Italy,$35.56M,2021
+mongolia,Export,United States,$31.03M,2021
+mongolia,Export,Japan,$17.73M,2021
+mongolia,Export,Germany,$12.19M,2021
+mongolia,Export,United Kingdom,$10.14M,2021
+myanmar,Export,Thailand,$3.58B,2023
+myanmar,Export,China,$3.43B,2023
+myanmar,Export,Japan,$1.20B,2023
+myanmar,Export,India,$839.43M,2023
+myanmar,Export,United States,$587.58M,2023
+myanmar,Export,Germany,$519.10M,2023
+myanmar,Export,Poland,$467.53M,2023
+myanmar,Export,Spain,$440.64M,2023
+myanmar,Export,South Korea,$404.39M,2023
+myanmar,Export,United Kingdom,$346.37M,2023
+nepal,Export,India,$935.41M,2022
+nepal,Export,United States,$147.20M,2022
+nepal,Export,Germany,$32.65M,2022
+nepal,Export,Turkey,$26.14M,2022
+nepal,Export,United Kingdom,$23.79M,2022
+nepal,Export,France,$13.26M,2022
+nepal,Export,Australia,$10.81M,2022
+nepal,Export,Japan,$10.38M,2022
+nepal,Export,Canada,$10.18M,2022
+nepal,Export,Italy,$9.89M,2022
+oman,Export,United Arab Emirates,$3.76B,2023
+oman,Export,Saudi Arabia,$2.94B,2023
+oman,Export,India,$2.21B,2023
+oman,Export,South Africa,$1.44B,2023
+oman,Export,United States,$1.34B,2023
+oman,Export,Egypt,$1.02B,2023
+oman,Export,Qatar,$740.36M,2023
+oman,Export,China,$597.24M,2023
+oman,Export,Iran,$553.70M,2023
+oman,Export,Singapore,$466.90M,2023
+palestine,Export,Israel,$1.28B,2023
+palestine,Export,Jordan,$105.17M,2023
+palestine,Export,United Arab Emirates,$24.16M,2023
+palestine,Export,Turkey,$22.33M,2023
+palestine,Export,United States,$20.84M,2023
+palestine,Export,Saudi Arabia,$9.91M,2023
+palestine,Export,United Kingdom,$8.45M,2023
+palestine,Export,Kuwait,$6.98M,2023
+palestine,Export,Germany,$4.55M,2023
+palestine,Export,Qatar,$4.36M,2023
+pakistan,Export,United States,$5.01B,2023
+pakistan,Export,China,$2.74B,2023
+pakistan,Export,United Kingdom,$1.98B,2023
+pakistan,Export,Germany,$1.52B,2023
+pakistan,Export,Netherlands,$1.44B,2023
+pakistan,Export,Spain,$1.42B,2023
+pakistan,Export,United Arab Emirates,$1.40B,2023
+pakistan,Export,Italy,$1.15B,2023
+pakistan,Export,Afghanistan,$969.04M,2023
+pakistan,Export,Bangladesh,$690.47M,2023
+philippines,Export,United States,$11.43B,2023
+philippines,Export,China,$10.65B,2023
+philippines,Export,Japan,$10.43B,2023
+philippines,Export,Hong Kong,$8.77B,2023
+philippines,Export,Singapore,$3.52B,2023
+philippines,Export,South Korea,$3.48B,2023
+philippines,Export,Netherlands,$3.09B,2023
+philippines,Export,Thailand,$2.93B,2023
+philippines,Export,Germany,$2.48B,2023
+philippines,Export,Malaysia,$2.18B,2023
+qatar,Export,China,$19.28B,2023
+qatar,Export,South Korea,$12.32B,2023
+qatar,Export,India,$11.76B,2023
+qatar,Export,Japan,$7.81B,2023
+qatar,Export,Singapore,$7.08B,2023
+qatar,Export,United Arab Emirates,$4.24B,2023
+qatar,Export,Italy,$3.43B,2023
+qatar,Export,Pakistan,$3.35B,2023
+qatar,Export,Belgium,$2.52B,2023
+qatar,Export,Thailand,$2.48B,2023
+united-arab-emirates,Export,Saudi Arabia,$29.46B,2023
+united-arab-emirates,Export,India,$25.02B,2023
+united-arab-emirates,Export,Iraq,$22.70B,2023
+united-arab-emirates,Export,Turkey,$18.72B,2023
+united-arab-emirates,Export,Hong Kong,$14.37B,2023
+united-arab-emirates,Export,United States,$13.54B,2023
+united-arab-emirates,Export,Switzerland,$11.09B,2023
+united-arab-emirates,Export,Oman,$10.91B,2023
+united-arab-emirates,Export,Kuwait,$9.90B,2023
+united-arab-emirates,Export,China,$9.29B,2023
+uzbekistan,Export,Russia,$4.47B,2024
+uzbekistan,Export,China,$1.85B,2024
+uzbekistan,Export,Kazakhstan,$1.84B,2024
+uzbekistan,Export,Turkey,$1.58B,2024
+uzbekistan,Export,Afghanistan,$1.40B,2024
+uzbekistan,Export,Kyrgyzstan,$740.74M,2024
+uzbekistan,Export,Tajikistan,$540.08M,2024
+uzbekistan,Export,Pakistan,$408.24M,2024
+uzbekistan,Export,Azerbaijan,$270.02M,2024
+uzbekistan,Export,United Arab Emirates,$250.54M,2024
+vietnam,Export,United States,$109.46B,2022
+vietnam,Export,China,$57.68B,2022
+vietnam,Export,South Korea,$24.26B,2022
+vietnam,Export,Japan,$24.23B,2022
+vietnam,Export,Hong Kong,$10.94B,2022
+vietnam,Export,Netherlands,$10.43B,2022
+vietnam,Export,Germany,$8.97B,2022
+vietnam,Export,India,$7.96B,2022
+vietnam,Export,Thailand,$7.35B,2022
+vietnam,Export,Canada,$6.33B,2022
+yemen,Export,Egypt,$11.79M,2019
+yemen,Export,Turkey,$6.66M,2019
+yemen,Export,Oman,$2.50M,2019
+yemen,Export,Sudan,$2.22M,2019
+yemen,Export,Eritrea,$208.29K,2019
+yemen,Export,Indonesia,$163.09K,2019
+yemen,Export,China,$111.98K,2019
+yemen,Export,Argentina,$69.83K,2019
+yemen,Export,Japan,$13.51K,2019
+yemen,Export,South Korea,$13.43K,2019
+fiji,Export,United States,$212.43M,2023
+fiji,Export,Australia,$103.85M,2023
+fiji,Export,Tonga,$73.15M,2023
+fiji,Export,New Zealand,$56.09M,2023
+fiji,Export,Vanuatu,$43.72M,2023
+fiji,Export,Samoa,$40.91M,2023
+fiji,Export,China,$32.58M,2023
+fiji,Export,Netherlands,$25.24M,2023
+fiji,Export,Kiribati,$24.54M,2023
+fiji,Export,United Kingdom,$21.97M,2023
+kiribati,Export,New Caledonia,$2.44M,2021
+kiribati,Export,Malaysia,$1.69M,2021
+kiribati,Export,Japan,$1.69M,2021
+kiribati,Export,Fiji,$1.15M,2021
+kiribati,Export,United States,$920.01K,2021
+kiribati,Export,Belize,$256.14K,2021
+kiribati,Export,New Zealand,$98.99K,2021
+kiribati,Export,South Korea,$25.42K,2021
+kiribati,Export,Vanuatu,$21.75K,2021
+kiribati,Export,Solomon Islands,$11.24K,2021
+new-caledonia,Export,China,$442.57M,2015
+new-caledonia,Export,Japan,$197.59M,2015
+new-caledonia,Export,South Korea,$187.31M,2015
+new-caledonia,Export,Belgium,$51.91M,2015
+new-caledonia,Export,India,$50.49M,2015
+new-caledonia,Export,United States,$41.72M,2015
+new-caledonia,Export,Spain,$40.44M,2015
+new-caledonia,Export,France,$33.42M,2015
+new-caledonia,Export,Hong Kong,$32.19M,2015
+new-caledonia,Export,Australia,$12.67M,2015
+new-zealand,Export,China,$10.80B,2024
+new-zealand,Export,United States,$5.45B,2024
+new-zealand,Export,Australia,$5.36B,2024
+new-zealand,Export,Japan,$2.32B,2024
+new-zealand,Export,South Korea,$1.29B,2024
+new-zealand,Export,Singapore,$1.06B,2024
+new-zealand,Export,United Kingdom,$1.05B,2024
+new-zealand,Export,Indonesia,$977.77M,2024
+new-zealand,Export,Malaysia,$899.25M,2024
+new-zealand,Export,Thailand,$766.96M,2024
+papua-new-guinea,Export,Japan,$2.18B,2021
+papua-new-guinea,Export,China,$1.75B,2021
+papua-new-guinea,Export,Australia,$1.67B,2021
+papua-new-guinea,Export,Singapore,$638.25M,2021
+papua-new-guinea,Export,North Korea,$385.16M,2021
+papua-new-guinea,Export,Netherlands,$302.46M,2021
+papua-new-guinea,Export,Malaysia,$276.84M,2021
+papua-new-guinea,Export,Philippines,$248.63M,2021
+papua-new-guinea,Export,Hong Kong,$211.28M,2021
+papua-new-guinea,Export,Germany,$196.16M,2021
+samoa,Export,New Zealand,$8.98M,2023
+samoa,Export,Australia,$5.56M,2023
+samoa,Export,United States,$5.17M,2023
+samoa,Export,Singapore,$2.35M,2023
+samoa,Export,Fiji,$1.59M,2023
+samoa,Export,China,$1.16M,2023
+samoa,Export,United Kingdom,$682.10K,2023
+samoa,Export,Japan,$446.34K,2023
+samoa,Export,South Korea,$243.7K,2023
+samoa,Export,Bangladesh,$165.84K,2023
+solomon-islands,Export,China,$380.35M,2018
+solomon-islands,Export,Italy,$41.10M,2018
+solomon-islands,Export,India,$28.94M,2018
+solomon-islands,Export,Switzerland,$13.87M,2018
+solomon-islands,Export,Thailand,$11.96M,2018
+solomon-islands,Export,Netherlands,$10.91M,2018
+solomon-islands,Export,Philippines,$10.70M,2018
+solomon-islands,Export,Malaysia,$8.77M,2018
+solomon-islands,Export,Hong Kong,$8.07M,2018
+solomon-islands,Export,United Kingdom,$6.05M,2018
+tonga,Export,New Zealand,$4.38M,2014
+tonga,Export,Hong Kong,$3.35M,2014
+tonga,Export,United States,$2.48M,2014
+tonga,Export,Japan,$2.05M,2014
+tonga,Export,Australia,$1.66M,2014
+tonga,Export,Samoa,$479.55K,2014
+tonga,Export,Philippines,$319.31K,2014
+tonga,Export,South Korea,$314.40K,2014
+tonga,Export,Fiji,$211.31K,2014
+tonga,Export,Vanuatu,$172.74K,2014
+vanuatu,Export,Malaysia,$12.99M,2011
+vanuatu,Export,Philippines,$11.46M,2011
+vanuatu,Export,New Zealand,$7.25M,2011
+vanuatu,Export,Australia,$7.18M,2011
+vanuatu,Export,Fiji,$5.14M,2011
+vanuatu,Export,New Caledonia,$3.62M,2011
+vanuatu,Export,Japan,$3.35M,2011
+vanuatu,Export,Papua New Guinea,$3.24M,2011
+vanuatu,Export,United States,$1.57M,2011
+vanuatu,Export,Solomon Islands,$998.56K,2011
+united-states,Import,Mexico,$509.96B,2024
+united-states,Import,China,$462.62B,2024
+united-states,Import,Canada,$421.21B,2024
+united-states,Import,Germany,$163.39B,2024
+united-states,Import,Japan,$152.07B,2024
+united-states,Import,Vietnam,$142.48B,2024
+united-states,Import,South Korea,$135.46B,2024
+united-states,Import,Ireland,$103.76B,2024
+united-states,Import,India,$91.23B,2024
+united-states,Import,Italy,$78.42B,2024
+china,Import,United States,$165.16B,2023
+china,Import,South Korea,$161.74B,2023
+china,Import,Japan,$160.48B,2023
+china,Import,Australia,$155.64B,2023
+china,Import,Russia,$129.21B,2023
+china,Import,Brazil,$122.49B,2023
+china,Import,Germany,$106.21B,2023
+china,Import,China,$104.30B,2023
+china,Import,Malaysia,$102.91B,2023
+china,Import,Vietnam,$92.14B,2023
+japan,Import,China,$167.12B,2024
+japan,Import,United States,$84.95B,2024
+japan,Import,Australia,$52.85B,2024
+japan,Import,United Arab Emirates,$36.84B,2024
+japan,Import,South Korea,$31.43B,2024
+japan,Import,Saudi Arabia,$29.83B,2024
+japan,Import,Vietnam,$26.75B,2024
+japan,Import,Thailand,$24.71B,2024
+japan,Import,Indonesia,$23.15B,2024
+japan,Import,Germany,$21.28B,2024
+germany,Import,China,$120.01B,2024
+germany,Import,Netherlands,$64.98B,2024
+germany,Import,United States,$64.78B,2024
+germany,Import,Poland,$55.56B,2024
+germany,Import,Italy,$48.58B,2024
+germany,Import,France,$47.62B,2024
+germany,Import,Czech Republic,$42.94B,2024
+germany,Import,Switzerland,$38.77B,2024
+germany,Import,Austria,$35.36B,2024
+germany,Import,Belgium,$32.85B,2024
+united-kingdom,Import,China,$99.22B,2024
+united-kingdom,Import,United States,$92.69B,2024
+united-kingdom,Import,Germany,$76.80B,2024
+united-kingdom,Import,France,$39.11B,2024
+united-kingdom,Import,Italy,$32.09B,2024
+united-kingdom,Import,Norway,$29.39B,2024
+united-kingdom,Import,Spain,$26.89B,2024
+united-kingdom,Import,Netherlands,$26.38B,2024
+united-kingdom,Import,Canada,$24.87B,2024
+united-kingdom,Import,Ireland,$20.29B,2024
+france,Import,Germany,$120.35B,2023
+france,Import,Belgium,$88.75B,2023
+france,Import,Netherlands,$68.78B,2023
+france,Import,Spain,$62.86B,2023
+france,Import,Italy,$61.90B,2023
+france,Import,China,$44.86B,2023
+france,Import,United States,$43.55B,2023
+france,Import,United Kingdom,$25.81B,2023
+france,Import,Switzerland,$18.68B,2023
+france,Import,Poland,$18.60B,2023
+india,Import,China,$121.97B,2023
+india,Import,Russia,$67.07B,2023
+india,Import,United States,$42.12B,2023
+india,Import,United Arab Emirates,$37.54B,2023
+india,Import,Saudi Arabia,$34.64B,2023
+india,Import,Iraq,$29.84B,2023
+india,Import,Indonesia,$24.03B,2023
+india,Import,South Korea,$19.64B,2023
+india,Import,Japan,$18.75B,2023
+india,Import,Switzerland,$18.60B,2023
+italy,Import,Germany,$91.95B,2024
+italy,Import,China,$53.66B,2024
+italy,Import,France,$49.54B,2024
+italy,Import,Netherlands,$39.40B,2024
+italy,Import,Spain,$36.69B,2024
+italy,Import,Belgium,$28.23B,2024
+italy,Import,United States,$28.02B,2024
+italy,Import,Poland,$17.21B,2024
+italy,Import,Switzerland,$17.04B,2024
+italy,Import,Austria,$13.60B,2024
+brazil,Import,China,$69.19B,2024
+brazil,Import,United States,$43.17B,2024
+brazil,Import,Germany,$14.14B,2024
+brazil,Import,Argentina,$14.08B,2024
+brazil,Import,Russia,$12.21B,2024
+brazil,Import,India,$7.25B,2024
+brazil,Import,Italy,$6.58B,2024
+brazil,Import,France,$6.31B,2024
+brazil,Import,Mexico,$6.00B,2024
+brazil,Import,Japan,$5.67B,2024
+canada,Import,United States,$277.04B,2023
+canada,Import,China,$66.08B,2023
+canada,Import,Mexico,$34.13B,2023
+canada,Import,Germany,$18.50B,2023
+canada,Import,Japan,$15.30B,2023
+canada,Import,South Korea,$10.21B,2023
+canada,Import,Vietnam,$9.82B,2023
+canada,Import,Italy,$9.54B,2023
+canada,Import,United Kingdom,$6.95B,2023
+canada,Import,Brazil,$6.80B,2023
+south-korea,Import,China,$142.82B,2023
+south-korea,Import,United States,$71.55B,2023
+south-korea,Import,Japan,$47.65B,2023
+south-korea,Import,Australia,$32.80B,2023
+south-korea,Import,Saudi Arabia,$32.74B,2023
+south-korea,Import,Vietnam,$25.94B,2023
+south-korea,Import,Germany,$23.60B,2023
+south-korea,Import,United Arab Emirates,$16.42B,2023
+south-korea,Import,Malaysia,$15.24B,2023
+south-korea,Import,Qatar,$15.00B,2023
+russia,Import,China,$72.69B,2021
+russia,Import,Germany,$27.35B,2021
+russia,Import,United States,$17.27B,2021
+russia,Import,Belarus,$15.64B,2021
+russia,Import,South Korea,$12.99B,2021
+russia,Import,France,$12.21B,2021
+russia,Import,Italy,$12.03B,2021
+russia,Import,Japan,$9.13B,2021
+russia,Import,Kazakhstan,$7.13B,2021
+russia,Import,Turkey,$6.51B,2021
+spain,Import,Germany,$49.57B,2023
+spain,Import,China,$47.56B,2023
+spain,Import,France,$41.26B,2023
+spain,Import,United States,$30.50B,2023
+spain,Import,Italy,$29.73B,2023
+spain,Import,Netherlands,$21.03B,2023
+spain,Import,Portugal,$17.17B,2023
+spain,Import,United Kingdom,$11.58B,2023
+spain,Import,Belgium,$10.57B,2023
+spain,Import,Turkey,$9.85B,2023
+australia,Import,China,$75.70B,2024
+australia,Import,United States,$34.72B,2024
+australia,Import,Japan,$17.38B,2024
+australia,Import,South Korea,$16.51B,2024
+australia,Import,Thailand,$13.50B,2024
+australia,Import,Germany,$12.56B,2024
+australia,Import,Malaysia,$11.86B,2024
+australia,Import,Singapore,$10.17B,2024
+australia,Import,Vietnam,$7.87B,2024
+australia,Import,India,$7.83B,2024
+mexico,Import,United States,$265.42B,2022
+mexico,Import,China,$118.69B,2022
+mexico,Import,South Korea,$22.43B,2022
+mexico,Import,Germany,$18.45B,2022
+mexico,Import,Japan,$18.29B,2022
+mexico,Import,Malaysia,$14.56B,2022
+mexico,Import,Canada,$13.17B,2022
+mexico,Import,Brazil,$11.97B,2022
+mexico,Import,Vietnam,$10.32B,2022
+mexico,Import,Thailand,$7.96B,2022
+indonesia,Import,China,$62.88B,2023
+indonesia,Import,Singapore,$18.41B,2023
+indonesia,Import,Japan,$16.52B,2023
+indonesia,Import,United States,$11.34B,2023
+indonesia,Import,Malaysia,$10.76B,2023
+indonesia,Import,South Korea,$10.53B,2023
+indonesia,Import,Thailand,$10.25B,2023
+indonesia,Import,Australia,$9.30B,2023
+indonesia,Import,India,$6.70B,2023
+indonesia,Import,Vietnam,$5.30B,2023
+turkey,Import,China,$44.93B,2024
+turkey,Import,Russia,$44.02B,2024
+turkey,Import,Germany,$27.08B,2024
+turkey,Import,Italy,$19.31B,2024
+turkey,Import,United States,$16.23B,2024
+turkey,Import,France,$12.50B,2024
+turkey,Import,Switzerland,$11.19B,2024
+turkey,Import,Spain,$9.36B,2024
+turkey,Import,South Korea,$9.25B,2024
+turkey,Import,United Arab Emirates,$7.36B,2024
+netherlands,Import,Germany,$105.87B,2024
+netherlands,Import,United States,$64.86B,2024
+netherlands,Import,Belgium,$63.67B,2024
+netherlands,Import,China,$55.05B,2024
+netherlands,Import,United Kingdom,$29.56B,2024
+netherlands,Import,France,$22.41B,2024
+netherlands,Import,Italy,$16.23B,2024
+netherlands,Import,Norway,$15.49B,2024
+netherlands,Import,Ireland,$15.12B,2024
+netherlands,Import,Poland,$14.65B,2024
+switzerland,Import,Germany,$67.81B,2024
+switzerland,Import,Italy,$30.35B,2024
+switzerland,Import,United States,$29.31B,2024
+switzerland,Import,France,$20.95B,2024
+switzerland,Import,Slovenia,$20.39B,2024
+switzerland,Import,China,$20.30B,2024
+switzerland,Import,United Arab Emirates,$13.13B,2024
+switzerland,Import,Austria,$10.67B,2024
+switzerland,Import,Canada,$8.49B,2024
+switzerland,Import,United Kingdom,$8.47B,2024
+saudi-arabia,Import,China,$43.35B,2023
+saudi-arabia,Import,United States,$18.90B,2023
+saudi-arabia,Import,United Arab Emirates,$13.35B,2023
+saudi-arabia,Import,India,$11.62B,2023
+saudi-arabia,Import,Germany,$9.12B,2023
+saudi-arabia,Import,Japan,$8.18B,2023
+saudi-arabia,Import,Switzerland,$6.61B,2023
+saudi-arabia,Import,South Korea,$6.03B,2023
+saudi-arabia,Import,Italy,$5.87B,2023
+saudi-arabia,Import,Egypt,$5.27B,2023
+argentina,Import,Brazil,$14.30B,2024
+argentina,Import,China,$11.66B,2024
+argentina,Import,United States,$6.23B,2024
+argentina,Import,Paraguay,$3.31B,2024
+argentina,Import,Germany,$2.66B,2024
+argentina,Import,Thailand,$1.71B,2024
+argentina,Import,Mexico,$1.42B,2024
+argentina,Import,Italy,$1.33B,2024
+argentina,Import,India,$1.30B,2024
+argentina,Import,Japan,$1.25B,2024
+south-africa,Import,China,$21.77B,2024
+south-africa,Import,India,$7.32B,2024
+south-africa,Import,Germany,$7.10B,2024
+south-africa,Import,United States,$6.98B,2024
+south-africa,Import,Thailand,$3.21B,2024
+south-africa,Import,Oman,$2.97B,2024
+south-africa,Import,United Arab Emirates,$2.97B,2024
+south-africa,Import,Nigeria,$2.55B,2024
+south-africa,Import,Saudi Arabia,$2.47B,2024
+south-africa,Import,Italy,$2.46B,2024
+singapore,Import,China,$58.79B,2023
+singapore,Import,United States,$52.06B,2023
+singapore,Import,Malaysia,$47.61B,2023
+singapore,Import,South Korea,$25.66B,2023
+singapore,Import,Japan,$21.19B,2023
+singapore,Import,Indonesia,$15.98B,2023
+singapore,Import,France,$13.79B,2023
+singapore,Import,United Arab Emirates,$12.23B,2023
+singapore,Import,Thailand,$12.02B,2023
+singapore,Import,Germany,$10.06B,2023
+antigua-and-barbuda,Import,United States,$339.08M,2023
+antigua-and-barbuda,Import,Japan,$34.30M,2023
+antigua-and-barbuda,Import,Trinidad And Tobago,$28.30M,2023
+antigua-and-barbuda,Import,China,$27.73M,2023
+antigua-and-barbuda,Import,United Kingdom,$26.76M,2023
+antigua-and-barbuda,Import,India,$16.53M,2023
+antigua-and-barbuda,Import,Brazil,$12.58M,2023
+antigua-and-barbuda,Import,Dominican Republic,$11.52M,2023
+antigua-and-barbuda,Import,Italy,$11.32M,2023
+antigua-and-barbuda,Import,Jamaica,$10.49M,2023
+aruba,Import,United States,$774.70M,2023
+aruba,Import,Netherlands,$194.70M,2023
+aruba,Import,China,$66.76M,2023
+aruba,Import,Colombia,$35.55M,2023
+aruba,Import,Panama,$33.03M,2023
+aruba,Import,South Korea,$30.07M,2023
+aruba,Import,Brazil,$28.42M,2023
+aruba,Import,Spain,$15.79M,2023
+aruba,Import,United Kingdom,$13.01M,2023
+aruba,Import,Hong Kong,$5.85M,2023
+bahamas,Import,United States,$3.54B,2023
+bahamas,Import,China,$72.83M,2023
+bahamas,Import,Japan,$34.36M,2023
+bahamas,Import,Panama,$33.96M,2023
+bahamas,Import,Switzerland,$33.06M,2023
+bahamas,Import,Canada,$31.44M,2023
+bahamas,Import,United Kingdom,$23.31M,2023
+bahamas,Import,Mexico,$23.01M,2023
+bahamas,Import,France,$22.64M,2023
+bahamas,Import,Italy,$20.11M,2023
+barbados,Import,United States,$833.66M,2024
+barbados,Import,Trinidad And Tobago,$456.97M,2024
+barbados,Import,Netherlands,$128.85M,2024
+barbados,Import,United Kingdom,$100.59M,2024
+barbados,Import,China,$90.64M,2024
+barbados,Import,Japan,$60.75M,2024
+barbados,Import,Panama,$49.70M,2024
+barbados,Import,Canada,$45.42M,2024
+barbados,Import,Jamaica,$32.60M,2024
+barbados,Import,Dominican Republic,$23.78M,2024
+belize,Import,United States,$572.85M,2022
+belize,Import,China,$242.16M,2022
+belize,Import,Mexico,$140.98M,2022
+belize,Import,Guatemala,$105.54M,2022
+belize,Import,Trinidad And Tobago,$21.17M,2022
+belize,Import,Cayman Islands,$20.95M,2022
+belize,Import,India,$17.97M,2022
+belize,Import,Hong Kong,$16.59M,2022
+belize,Import,Panama,$16.43M,2022
+belize,Import,Costa Rica,$16.19M,2022
+bermuda,Import,United States,$914.16M,2023
+bermuda,Import,United Kingdom,$60.93M,2023
+bermuda,Import,Canada,$46.46M,2023
+bermuda,Import,China,$25.83M,2023
+bermuda,Import,Japan,$11.35M,2023
+bermuda,Import,Panama,$10.91M,2023
+bermuda,Import,Italy,$9.48M,2023
+bermuda,Import,France,$9.22M,2023
+bermuda,Import,Germany,$8.87M,2023
+bermuda,Import,Netherlands,$7.37M,2023
+bolivia,Import,China,$2.39B,2023
+bolivia,Import,Brazil,$1.91B,2023
+bolivia,Import,Argentina,$1.09B,2023
+bolivia,Import,Chile,$1.02B,2023
+bolivia,Import,United States,$781.70M,2023
+bolivia,Import,Peru,$738.12M,2023
+bolivia,Import,Paraguay,$322.02M,2023
+bolivia,Import,Japan,$274.76M,2023
+bolivia,Import,Mexico,$255.41M,2023
+bolivia,Import,Switzerland,$225.78M,2023
+cayman-islands,Import,United States,$1.50B,2023
+cayman-islands,Import,Jamaica,$71.52M,2023
+cayman-islands,Import,United Kingdom,$45.40M,2023
+cayman-islands,Import,China,$24.29M,2023
+cayman-islands,Import,Switzerland,$19.40M,2023
+cayman-islands,Import,Japan,$17.70M,2023
+cayman-islands,Import,Germany,$14.26M,2023
+cayman-islands,Import,Panama,$12.53M,2023
+cayman-islands,Import,Mexico,$12.04M,2023
+cayman-islands,Import,Italy,$11.81M,2023
+chile,Import,China,$19.83B,2023
+chile,Import,United States,$17.16B,2023
+chile,Import,Brazil,$8.77B,2023
+chile,Import,Argentina,$5.73B,2023
+chile,Import,Germany,$2.81B,2023
+chile,Import,Japan,$2.46B,2023
+chile,Import,Spain,$1.84B,2023
+chile,Import,Peru,$1.83B,2023
+chile,Import,Mexico,$1.68B,2023
+chile,Import,South Korea,$1.49B,2023
+colombia,Import,United States,$16.18B,2023
+colombia,Import,China,$13.57B,2023
+colombia,Import,Brazil,$4.04B,2023
+colombia,Import,Mexico,$3.09B,2023
+colombia,Import,Germany,$2.35B,2023
+colombia,Import,France,$2.07B,2023
+colombia,Import,Argentina,$1.41B,2023
+colombia,Import,India,$1.41B,2023
+colombia,Import,Japan,$1.36B,2023
+colombia,Import,Spain,$1.26B,2023
+costa-rica,Import,United States,$8.60B,2023
+costa-rica,Import,China,$3.39B,2023
+costa-rica,Import,Mexico,$1.44B,2023
+costa-rica,Import,Brazil,$659.80M,2023
+costa-rica,Import,Guatemala,$598.12M,2023
+costa-rica,Import,Germany,$557.39M,2023
+costa-rica,Import,Japan,$465.61M,2023
+costa-rica,Import,Colombia,$401.97M,2023
+costa-rica,Import,Spain,$388.92M,2023
+costa-rica,Import,Chile,$332.00M,2023
+cuba,Import,China,$1.13B,2022
+cuba,Import,Spain,$995.93M,2022
+cuba,Import,United States,$449.95M,2022
+cuba,Import,Argentina,$344.93M,2022
+cuba,Import,Mexico,$341.94M,2022
+cuba,Import,Brazil,$335.72M,2022
+cuba,Import,Germany,$246.92M,2022
+cuba,Import,Italy,$227.63M,2022
+cuba,Import,Vietnam,$218.83M,2022
+cuba,Import,Netherlands,$199.97M,2022
+dominica,Import,United States,$108.73M,2023
+dominica,Import,Trinidad And Tobago,$32.36M,2023
+dominica,Import,China,$14.20M,2023
+dominica,Import,United Kingdom,$13.50M,2023
+dominica,Import,Austria,$11.07M,2023
+dominica,Import,Venezuela,$10.45M,2023
+dominica,Import,Antigua and Barbuda,$9.14M,2023
+dominica,Import,France,$8.87M,2023
+dominica,Import,Jamaica,$7.64M,2023
+dominica,Import,Japan,$6.54M,2023
+dominican-republic,Import,United States,$12.75B,2023
+dominican-republic,Import,China,$5.15B,2023
+dominican-republic,Import,Brazil,$1.21B,2023
+dominican-republic,Import,Mexico,$1.18B,2023
+dominican-republic,Import,Spain,$1.17B,2023
+dominican-republic,Import,Italy,$976.67M,2023
+dominican-republic,Import,Colombia,$709.12M,2023
+dominican-republic,Import,Japan,$573.18M,2023
+dominican-republic,Import,Germany,$551.83M,2023
+dominican-republic,Import,India,$495.27M,2023
+ecuador,Import,United States,$8.29B,2023
+ecuador,Import,China,$6.40B,2023
+ecuador,Import,Colombia,$2.29B,2023
+ecuador,Import,Brazil,$1.23B,2023
+ecuador,Import,Peru,$1.07B,2023
+ecuador,Import,South Korea,$853.19M,2023
+ecuador,Import,Italy,$819.64M,2023
+ecuador,Import,Japan,$778.13M,2023
+ecuador,Import,Spain,$741.15M,2023
+ecuador,Import,Mexico,$738.73M,2023
+el-salvador,Import,United States,$3.84B,2024
+el-salvador,Import,China,$1.97B,2024
+el-salvador,Import,Guatemala,$1.50B,2024
+el-salvador,Import,Mexico,$1.07B,2024
+el-salvador,Import,Honduras,$843.36M,2024
+el-salvador,Import,Nicaragua,$509.68M,2024
+el-salvador,Import,Costa Rica,$413.77M,2024
+el-salvador,Import,South Korea,$244.34M,2024
+el-salvador,Import,Brazil,$221.85M,2024
+el-salvador,Import,Japan,$221.56M,2024
+grenada,Import,United States,$243.69M,2023
+grenada,Import,Trinidad And Tobago,$84.76M,2023
+grenada,Import,Cayman Islands,$67.19M,2023
+grenada,Import,China,$24.50M,2023
+grenada,Import,United Kingdom,$20.49M,2023
+grenada,Import,Japan,$14.69M,2023
+grenada,Import,Barbados,$12.31M,2023
+grenada,Import,Netherlands,$11.45M,2023
+grenada,Import,Jamaica,$9.38M,2023
+grenada,Import,Canada,$8.43M,2023
+guatemala,Import,United States,$9.18B,2023
+guatemala,Import,China,$5.59B,2023
+guatemala,Import,Mexico,$3.24B,2023
+guatemala,Import,El Salvador,$1.02B,2023
+guatemala,Import,Japan,$819.99M,2023
+guatemala,Import,Costa Rica,$808.72M,2023
+guatemala,Import,Brazil,$722.49M,2023
+guatemala,Import,Germany,$642.93M,2023
+guatemala,Import,India,$629.33M,2023
+guatemala,Import,Colombia,$625.55M,2023
+guyana,Import,United States,$2.57B,2024
+guyana,Import,China,$929.32M,2024
+guyana,Import,South Korea,$487.04M,2024
+guyana,Import,Brazil,$457.64M,2024
+guyana,Import,Trinidad And Tobago,$406.43M,2024
+guyana,Import,United Kingdom,$283.71M,2024
+guyana,Import,Japan,$231.45M,2024
+guyana,Import,Mexico,$178.84M,2024
+guyana,Import,Suriname,$171.27M,2024
+guyana,Import,India,$129.66M,2024
+honduras,Import,United States,$5.08B,2023
+honduras,Import,China,$2.34B,2023
+honduras,Import,Mexico,$1.04B,2023
+honduras,Import,Guatemala,$757.83M,2023
+honduras,Import,El Salvador,$594.97M,2023
+honduras,Import,Costa Rica,$526.95M,2023
+honduras,Import,Japan,$329.07M,2023
+honduras,Import,Brazil,$283.87M,2023
+honduras,Import,India,$252.53M,2023
+honduras,Import,Germany,$211.03M,2023
+jamaica,Import,United States,$3.13B,2023
+jamaica,Import,China,$607.68M,2023
+jamaica,Import,Brazil,$364.68M,2023
+jamaica,Import,Japan,$290.87M,2023
+jamaica,Import,Colombia,$282.94M,2023
+jamaica,Import,Trinidad And Tobago,$227.23M,2023
+jamaica,Import,Mexico,$164.44M,2023
+jamaica,Import,Nigeria,$160.77M,2023
+jamaica,Import,Germany,$140.81M,2023
+jamaica,Import,Spain,$134.60M,2023
+nicaragua,Import,United States,$2.70B,2023
+nicaragua,Import,China,$1.38B,2023
+nicaragua,Import,Mexico,$1.02B,2023
+nicaragua,Import,Honduras,$1.00B,2023
+nicaragua,Import,Guatemala,$852.23M,2023
+nicaragua,Import,Costa Rica,$675.60M,2023
+nicaragua,Import,El Salvador,$433.83M,2023
+nicaragua,Import,India,$371.12M,2023
+nicaragua,Import,Ecuador,$264.58M,2023
+nicaragua,Import,Japan,$213.30M,2023
+panama,Import,United States,$2.42B,2024
+panama,Import,China,$2.15B,2024
+panama,Import,Panama,$809.34M,2024
+panama,Import,Mexico,$630.92M,2024
+panama,Import,Costa Rica,$488.66M,2024
+panama,Import,Colombia,$337.18M,2024
+panama,Import,Spain,$325.74M,2024
+panama,Import,Guatemala,$261.50M,2024
+panama,Import,Japan,$248.14M,2024
+panama,Import,Germany,$219.03M,2024
+paraguay,Import,China,$5.64B,2024
+paraguay,Import,Brazil,$4.17B,2024
+paraguay,Import,Argentina,$1.19B,2024
+paraguay,Import,United States,$1.17B,2024
+paraguay,Import,India,$438.53M,2024
+paraguay,Import,Singapore,$412.31M,2024
+paraguay,Import,Germany,$365.34M,2024
+paraguay,Import,Japan,$307.17M,2024
+paraguay,Import,Switzerland,$253.47M,2024
+paraguay,Import,South Korea,$237.94M,2024
+peru,Import,China,$13.44B,2023
+peru,Import,United States,$10.99B,2023
+peru,Import,Brazil,$3.74B,2023
+peru,Import,Argentina,$2.66B,2023
+peru,Import,Mexico,$1.77B,2023
+peru,Import,Chile,$1.33B,2023
+peru,Import,Colombia,$1.25B,2023
+peru,Import,Canada,$1.21B,2023
+peru,Import,Ecuador,$1.18B,2023
+peru,Import,Germany,$1.14B,2023
+suriname,Import,United States,$448.82M,2023
+suriname,Import,Netherlands,$210.89M,2023
+suriname,Import,Trinidad And Tobago,$179.99M,2023
+suriname,Import,China,$166.58M,2023
+suriname,Import,Antigua and Barbuda,$65.13M,2023
+suriname,Import,Japan,$60.73M,2023
+suriname,Import,Brazil,$38.04M,2023
+suriname,Import,Turkey,$34.36M,2023
+suriname,Import,United Kingdom,$31.25M,2023
+suriname,Import,Germany,$30.62M,2023
+trinidad-and-tobago,Import,United States,$3.97B,2023
+trinidad-and-tobago,Import,China,$716.09M,2023
+trinidad-and-tobago,Import,Italy,$397.60M,2023
+trinidad-and-tobago,Import,Brazil,$389.26M,2023
+trinidad-and-tobago,Import,Japan,$241.71M,2023
+trinidad-and-tobago,Import,Canada,$237.66M,2023
+trinidad-and-tobago,Import,United Kingdom,$199.24M,2023
+trinidad-and-tobago,Import,Netherlands,$188.84M,2023
+trinidad-and-tobago,Import,Germany,$188.08M,2023
+trinidad-and-tobago,Import,Turkey,$186.00M,2023
+uruguay,Import,Brazil,$2.58B,2022
+uruguay,Import,China,$2.35B,2022
+uruguay,Import,United States,$2.05B,2022
+uruguay,Import,Argentina,$1.49B,2022
+uruguay,Import,Nigeria,$381.17M,2022
+uruguay,Import,Germany,$298.00M,2022
+uruguay,Import,India,$278.51M,2022
+uruguay,Import,Spain,$261.91M,2022
+uruguay,Import,Mexico,$243.92M,2022
+uruguay,Import,France,$222.99M,2022
+venezuela,Import,United States,$10.49B,2013
+venezuela,Import,China,$7.65B,2013
+venezuela,Import,Brazil,$4.50B,2013
+venezuela,Import,Colombia,$2.26B,2013
+venezuela,Import,Mexico,$2.23B,2013
+venezuela,Import,Argentina,$1.91B,2013
+venezuela,Import,Germany,$1.29B,2013
+venezuela,Import,Italy,$1.14B,2013
+venezuela,Import,Spain,$1.02B,2013
+venezuela,Import,Ecuador,$987.97M,2013
+albania,Import,Italy,$1.93B,2023
+albania,Import,China,$931.49M,2023
+albania,Import,Turkey,$840.63M,2023
+albania,Import,Germany,$613.57M,2023
+albania,Import,Greece,$565.85M,2023
+albania,Import,Serbia,$361.02M,2023
+albania,Import,India,$340.67M,2023
+albania,Import,United States,$173.63M,2023
+albania,Import,Poland,$156.48M,2023
+albania,Import,Macedonia,$140.87M,2023
+andorra,Import,Spain,$1.29B,2023
+andorra,Import,France,$212.94M,2023
+andorra,Import,Germany,$110.77M,2023
+andorra,Import,China,$62.65M,2023
+andorra,Import,Italy,$62.17M,2023
+andorra,Import,Switzerland,$32.87M,2023
+andorra,Import,United Kingdom,$24.90M,2023
+andorra,Import,Netherlands,$19.59M,2023
+andorra,Import,Austria,$14.77M,2023
+andorra,Import,Portugal,$14.17M,2023
+austria,Import,Germany,$68.90B,2023
+austria,Import,China,$16.34B,2023
+austria,Import,Italy,$13.95B,2023
+austria,Import,Switzerland,$12.52B,2023
+austria,Import,Czech Republic,$9.08B,2023
+austria,Import,United States,$8.55B,2023
+austria,Import,Poland,$7.07B,2023
+austria,Import,Netherlands,$5.90B,2023
+austria,Import,France,$5.71B,2023
+austria,Import,Hungary,$5.45B,2023
+belarus,Import,Russia,$11.95B,2021
+belarus,Import,China,$3.40B,2021
+belarus,Import,Germany,$1.50B,2021
+belarus,Import,Ukraine,$1.44B,2021
+belarus,Import,Poland,$1.06B,2021
+belarus,Import,Italy,$722.89M,2021
+belarus,Import,Turkey,$683.92M,2021
+belarus,Import,United States,$401.46M,2021
+belarus,Import,France,$316.23M,2021
+belarus,Import,Switzerland,$271.91M,2021
+belgium,Import,Netherlands,$87.43B,2024
+belgium,Import,Germany,$49.44B,2024
+belgium,Import,France,$42.14B,2024
+belgium,Import,United States,$21.87B,2024
+belgium,Import,Italy,$16.86B,2024
+belgium,Import,China,$12.85B,2024
+belgium,Import,United Kingdom,$10.64B,2024
+belgium,Import,Ireland,$10.10B,2024
+belgium,Import,Switzerland,$9.82B,2024
+belgium,Import,Spain,$9.24B,2024
+bosnia-and-herzegovina,Import,Italy,$2.14B,2023
+bosnia-and-herzegovina,Import,Germany,$1.84B,2023
+bosnia-and-herzegovina,Import,Serbia,$1.58B,2023
+bosnia-and-herzegovina,Import,China,$1.45B,2023
+bosnia-and-herzegovina,Import,Croatia,$1.16B,2023
+bosnia-and-herzegovina,Import,Turkey,$851.47M,2023
+bosnia-and-herzegovina,Import,Slovenia,$593.36M,2023
+bosnia-and-herzegovina,Import,Austria,$551.20M,2023
+bosnia-and-herzegovina,Import,Poland,$481.39M,2023
+bosnia-and-herzegovina,Import,United States,$437.42M,2023
+bulgaria,Import,Germany,$6.63B,2023
+bulgaria,Import,Turkey,$4.40B,2023
+bulgaria,Import,Romania,$3.64B,2023
+bulgaria,Import,Italy,$3.60B,2023
+bulgaria,Import,Russia,$3.51B,2023
+bulgaria,Import,China,$2.88B,2023
+bulgaria,Import,Greece,$2.35B,2023
+bulgaria,Import,Netherlands,$2.19B,2023
+bulgaria,Import,Poland,$2.09B,2023
+bulgaria,Import,Hungary,$1.87B,2023
+croatia,Import,Italy,$6.18B,2023
+croatia,Import,Germany,$6.05B,2023
+croatia,Import,Slovenia,$4.89B,2023
+croatia,Import,Hungary,$2.73B,2023
+croatia,Import,Austria,$2.36B,2023
+croatia,Import,Poland,$1.69B,2023
+croatia,Import,Netherlands,$1.69B,2023
+croatia,Import,Bosnia And Herzegovina,$1.39B,2023
+croatia,Import,China,$1.38B,2023
+croatia,Import,Serbia,$1.15B,2023
+cyprus,Import,Greece,$3.07B,2023
+cyprus,Import,United Kingdom,$1.44B,2023
+cyprus,Import,Italy,$1.08B,2023
+cyprus,Import,China,$830.71M,2023
+cyprus,Import,Germany,$748.25M,2023
+cyprus,Import,Spain,$699.84M,2023
+cyprus,Import,Israel,$637.41M,2023
+cyprus,Import,Netherlands,$492.64M,2023
+cyprus,Import,Japan,$328.09M,2023
+cyprus,Import,Belgium,$300.93M,2023
+czech-republic,Import,Germany,$46.63B,2024
+czech-republic,Import,China,$39.21B,2024
+czech-republic,Import,Poland,$18.96B,2024
+czech-republic,Import,Slovakia,$10.41B,2024
+czech-republic,Import,Italy,$8.83B,2024
+czech-republic,Import,France,$6.78B,2024
+czech-republic,Import,United States,$6.32B,2024
+czech-republic,Import,Netherlands,$5.98B,2024
+czech-republic,Import,Austria,$5.74B,2024
+czech-republic,Import,Hungary,$5.14B,2024
+denmark,Import,Germany,$23.58B,2024
+denmark,Import,Sweden,$14.17B,2024
+denmark,Import,Netherlands,$11.03B,2024
+denmark,Import,China,$8.71B,2024
+denmark,Import,United States,$6.12B,2024
+denmark,Import,Poland,$5.83B,2024
+denmark,Import,Norway,$5.50B,2024
+denmark,Import,Italy,$4.29B,2024
+denmark,Import,Belgium,$4.05B,2024
+denmark,Import,France,$3.75B,2024
+estonia,Import,Germany,$2.55B,2024
+estonia,Import,China,$2.30B,2024
+estonia,Import,Finland,$1.88B,2024
+estonia,Import,Lithuania,$1.46B,2024
+estonia,Import,Poland,$1.43B,2024
+estonia,Import,Sweden,$1.06B,2024
+estonia,Import,Latvia,$1.01B,2024
+estonia,Import,United States,$860.16M,2024
+estonia,Import,Italy,$699.65M,2024
+estonia,Import,France,$659.33M,2024
+finland,Import,Germany,$10.65B,2024
+finland,Import,Sweden,$9.24B,2024
+finland,Import,China,$8.00B,2024
+finland,Import,Norway,$5.93B,2024
+finland,Import,United States,$4.01B,2024
+finland,Import,Netherlands,$3.83B,2024
+finland,Import,Poland,$2.72B,2024
+finland,Import,Estonia,$2.49B,2024
+finland,Import,Italy,$2.37B,2024
+finland,Import,France,$2.30B,2024
+greece,Import,Germany,$9.46B,2024
+greece,Import,China,$7.52B,2024
+greece,Import,Italy,$7.49B,2024
+greece,Import,Iraq,$5.41B,2024
+greece,Import,Netherlands,$5.02B,2024
+greece,Import,Kazakhstan,$4.41B,2024
+greece,Import,France,$4.12B,2024
+greece,Import,Turkey,$3.50B,2024
+greece,Import,Spain,$3.25B,2024
+greece,Import,Bulgaria,$2.73B,2024
+hungary,Import,Germany,$34.83B,2024
+hungary,Import,China,$9.72B,2024
+hungary,Import,Poland,$9.54B,2024
+hungary,Import,Austria,$9.24B,2024
+hungary,Import,Slovakia,$9.20B,2024
+hungary,Import,Czech Republic,$8.40B,2024
+hungary,Import,Netherlands,$8.23B,2024
+hungary,Import,Italy,$6.48B,2024
+hungary,Import,South Korea,$5.70B,2024
+hungary,Import,Russia,$5.53B,2024
+iceland,Import,Norway,$1.07B,2024
+iceland,Import,China,$1.06B,2024
+iceland,Import,United States,$846.12M,2024
+iceland,Import,Germany,$788.20M,2024
+iceland,Import,Denmark,$626.95M,2024
+iceland,Import,Netherlands,$609.23M,2024
+iceland,Import,Sweden,$406.98M,2024
+iceland,Import,United Kingdom,$378.85M,2024
+iceland,Import,Brazil,$318.55M,2024
+iceland,Import,Italy,$260.49M,2024
+ireland,Import,United States,$24.35B,2024
+ireland,Import,United Kingdom,$23.86B,2024
+ireland,Import,France,$14.65B,2024
+ireland,Import,Germany,$13.18B,2024
+ireland,Import,China,$12.75B,2024
+ireland,Import,Netherlands,$7.29B,2024
+ireland,Import,Israel,$4.15B,2024
+ireland,Import,Italy,$3.39B,2024
+ireland,Import,Belgium,$3.03B,2024
+ireland,Import,Switzerland,$2.99B,2024
+latvia,Import,Lithuania,$4.85B,2024
+latvia,Import,Germany,$2.72B,2024
+latvia,Import,Poland,$2.60B,2024
+latvia,Import,Estonia,$2.02B,2024
+latvia,Import,Finland,$1.30B,2024
+latvia,Import,Netherlands,$1.12B,2024
+latvia,Import,China,$899.45M,2024
+latvia,Import,Italy,$811.83M,2024
+latvia,Import,Sweden,$765.56M,2024
+latvia,Import,Belgium,$495.09M,2024
+lithuania,Import,Germany,$6.67B,2023
+lithuania,Import,Poland,$6.41B,2023
+lithuania,Import,Latvia,$3.94B,2023
+lithuania,Import,United States,$3.11B,2023
+lithuania,Import,Netherlands,$2.61B,2023
+lithuania,Import,Norway,$2.44B,2023
+lithuania,Import,Saudi Arabia,$2.17B,2023
+lithuania,Import,Sweden,$1.94B,2023
+lithuania,Import,Italy,$1.90B,2023
+lithuania,Import,Estonia,$1.87B,2023
+luxembourg,Import,Belgium,$6.15B,2023
+luxembourg,Import,Germany,$5.50B,2023
+luxembourg,Import,France,$2.62B,2023
+luxembourg,Import,Netherlands,$1.19B,2023
+luxembourg,Import,Italy,$855.67M,2023
+luxembourg,Import,China,$817.53M,2023
+luxembourg,Import,United States,$692.44M,2023
+luxembourg,Import,Poland,$587.05M,2023
+luxembourg,Import,Japan,$469.32M,2023
+luxembourg,Import,Spain,$441.87M,2023
+malta,Import,Italy,$1.92B,2023
+malta,Import,Germany,$751.34M,2023
+malta,Import,France,$722.53M,2023
+malta,Import,Spain,$529.49M,2023
+malta,Import,Netherlands,$447.26M,2023
+malta,Import,United Kingdom,$445.38M,2023
+malta,Import,China,$378.65M,2023
+malta,Import,India,$287.09M,2023
+malta,Import,United States,$270.45M,2023
+malta,Import,South Korea,$229.71M,2023
+moldova,Import,Romania,$1.30B,2023
+moldova,Import,Ukraine,$1.08B,2023
+moldova,Import,China,$1.02B,2023
+moldova,Import,Turkey,$740.85M,2023
+moldova,Import,Germany,$617.88M,2023
+moldova,Import,Italy,$470.28M,2023
+moldova,Import,Russia,$321.64M,2023
+moldova,Import,Poland,$317.00M,2023
+moldova,Import,France,$216.90M,2023
+moldova,Import,India,$209.73M,2023
+montenegro,Import,Serbia,$715.53M,2023
+montenegro,Import,China,$459.23M,2023
+montenegro,Import,Germany,$398.18M,2023
+montenegro,Import,Greece,$265.68M,2023
+montenegro,Import,Italy,$253.08M,2023
+montenegro,Import,Croatia,$244.79M,2023
+montenegro,Import,Turkey,$210.95M,2023
+montenegro,Import,Bosnia And Herzegovina,$199.58M,2023
+montenegro,Import,France,$98.02M,2023
+montenegro,Import,Spain,$82.08M,2023
+norway,Import,China,$11.95B,2024
+norway,Import,Sweden,$10.51B,2024
+norway,Import,Germany,$10.50B,2024
+norway,Import,United States,$7.71B,2024
+norway,Import,United Kingdom,$4.65B,2024
+norway,Import,Netherlands,$4.59B,2024
+norway,Import,Denmark,$4.27B,2024
+norway,Import,Poland,$3.44B,2024
+norway,Import,Italy,$3.10B,2024
+norway,Import,France,$2.78B,2024
+poland,Import,Germany,$72.93B,2024
+poland,Import,China,$55.07B,2024
+poland,Import,United States,$19.00B,2024
+poland,Import,Italy,$17.78B,2024
+poland,Import,Netherlands,$14.64B,2024
+poland,Import,France,$13.17B,2024
+poland,Import,Czech Republic,$12.25B,2024
+poland,Import,South Korea,$10.95B,2024
+poland,Import,Saudi Arabia,$8.52B,2024
+poland,Import,Spain,$8.51B,2024
+portugal,Import,Spain,$38.36B,2024
+portugal,Import,Germany,$13.20B,2024
+portugal,Import,France,$8.35B,2024
+portugal,Import,Netherlands,$6.38B,2024
+portugal,Import,Italy,$5.99B,2024
+portugal,Import,China,$5.54B,2024
+portugal,Import,Brazil,$4.04B,2024
+portugal,Import,Belgium,$3.66B,2024
+portugal,Import,United States,$2.61B,2024
+portugal,Import,Ireland,$2.15B,2024
+romania,Import,Germany,$25.59B,2023
+romania,Import,Italy,$11.42B,2023
+romania,Import,Hungary,$8.54B,2023
+romania,Import,Poland,$8.24B,2023
+romania,Import,China,$7.31B,2023
+romania,Import,Turkey,$6.89B,2023
+romania,Import,Bulgaria,$6.15B,2023
+romania,Import,Netherlands,$5.66B,2023
+romania,Import,France,$5.64B,2023
+romania,Import,Austria,$4.62B,2023
+serbia,Import,Germany,$5.21B,2023
+serbia,Import,China,$4.87B,2023
+serbia,Import,Italy,$2.90B,2023
+serbia,Import,Turkey,$1.87B,2023
+serbia,Import,Russia,$1.73B,2023
+serbia,Import,Hungary,$1.66B,2023
+serbia,Import,Poland,$1.27B,2023
+serbia,Import,Romania,$1.18B,2023
+serbia,Import,France,$1.13B,2023
+serbia,Import,Bosnia And Herzegovina,$1.11B,2023
+slovakia,Import,Germany,$16.75B,2023
+slovakia,Import,Czech Republic,$11.71B,2023
+slovakia,Import,China,$8.53B,2023
+slovakia,Import,Poland,$6.85B,2023
+slovakia,Import,South Korea,$6.45B,2023
+slovakia,Import,Hungary,$5.96B,2023
+slovakia,Import,Russia,$4.94B,2023
+slovakia,Import,Vietnam,$4.62B,2023
+slovakia,Import,Italy,$3.82B,2023
+slovakia,Import,France,$3.55B,2023
+slovenia,Import,Switzerland,$10.43B,2023
+slovenia,Import,China,$9.67B,2023
+slovenia,Import,Germany,$6.61B,2023
+slovenia,Import,Italy,$5.63B,2023
+slovenia,Import,Austria,$3.45B,2023
+slovenia,Import,Croatia,$2.32B,2023
+slovenia,Import,India,$1.90B,2023
+slovenia,Import,France,$1.48B,2023
+slovenia,Import,Hungary,$1.34B,2023
+slovenia,Import,Poland,$1.33B,2023
+sweden,Import,Germany,$30.54B,2024
+sweden,Import,Netherlands,$20.52B,2024
+sweden,Import,Norway,$17.74B,2024
+sweden,Import,Denmark,$12.55B,2024
+sweden,Import,China,$11.93B,2024
+sweden,Import,Belgium,$8.97B,2024
+sweden,Import,Finland,$8.89B,2024
+sweden,Import,Poland,$8.65B,2024
+sweden,Import,United States,$7.30B,2024
+sweden,Import,France,$6.40B,2024
+ukraine,Import,China,$10.44B,2023
+ukraine,Import,Poland,$6.58B,2023
+ukraine,Import,Germany,$5.06B,2023
+ukraine,Import,Turkey,$4.72B,2023
+ukraine,Import,United States,$2.87B,2023
+ukraine,Import,Italy,$2.28B,2023
+ukraine,Import,Bulgaria,$2.22B,2023
+ukraine,Import,India,$1.88B,2023
+ukraine,Import,Czech Republic,$1.79B,2023
+ukraine,Import,France,$1.76B,2023
+algeria,Import,China,$8.41B,2016
+algeria,Import,France,$4.77B,2016
+algeria,Import,Italy,$4.65B,2016
+algeria,Import,Spain,$3.57B,2016
+algeria,Import,Germany,$3.02B,2016
+algeria,Import,United States,$2.32B,2016
+algeria,Import,Turkey,$1.94B,2016
+algeria,Import,Argentina,$1.33B,2016
+algeria,Import,Brazil,$1.21B,2016
+algeria,Import,South Korea,$1.09B,2016
+angola,Import,China,$2.44B,2023
+angola,Import,Portugal,$1.71B,2023
+angola,Import,United Arab Emirates,$1.09B,2023
+angola,Import,India,$1.03B,2023
+angola,Import,United States,$890.30M,2023
+angola,Import,Togo,$852.17M,2023
+angola,Import,United Kingdom,$775.35M,2023
+angola,Import,South Korea,$664.80M,2023
+angola,Import,Brazil,$577.92M,2023
+angola,Import,Italy,$560.52M,2023
+benin,Import,India,$590.45M,2022
+benin,Import,China,$544.15M,2022
+benin,Import,France,$307.51M,2022
+benin,Import,United Arab Emirates,$264.66M,2022
+benin,Import,Nigeria,$185.78M,2022
+benin,Import,United States,$164.66M,2022
+benin,Import,Thailand,$149.53M,2022
+benin,Import,Belgium,$134.19M,2022
+benin,Import,Turkey,$103.98M,2022
+benin,Import,Togo,$103.93M,2022
+botswana,Import,South Africa,$4.17B,2023
+botswana,Import,Namibia,$495.96M,2023
+botswana,Import,Canada,$311.98M,2023
+botswana,Import,China,$210.14M,2023
+botswana,Import,India,$174.43M,2023
+botswana,Import,Zambia,$132.85M,2023
+botswana,Import,Armenia,$114.20M,2023
+botswana,Import,Mozambique,$98.69M,2023
+botswana,Import,United States,$85.18M,2023
+botswana,Import,Belgium,$79.64M,2023
+burkina-faso,Import,China,$1.02B,2024
+burkina-faso,Import,Ivory Coast,$981.50M,2024
+burkina-faso,Import,Russia,$751.38M,2024
+burkina-faso,Import,Ghana,$573.33M,2024
+burkina-faso,Import,France,$303.70M,2024
+burkina-faso,Import,India,$294.38M,2024
+burkina-faso,Import,Belgium,$246.43M,2024
+burkina-faso,Import,United States,$181.48M,2024
+burkina-faso,Import,Senegal,$153.80M,2024
+burkina-faso,Import,Japan,$112.39M,2024
+burundi,Import,Saudi Arabia,$185.10M,2022
+burundi,Import,China,$178.28M,2022
+burundi,Import,United Arab Emirates,$174.94M,2022
+burundi,Import,Tanzania,$114.35M,2022
+burundi,Import,India,$106.74M,2022
+burundi,Import,Uganda,$75.34M,2022
+burundi,Import,Kenya,$67.58M,2022
+burundi,Import,Japan,$41.07M,2022
+burundi,Import,Belgium,$31.40M,2022
+burundi,Import,Zambia,$27.41M,2022
+cameroon,Import,China,$1.19B,2021
+cameroon,Import,France,$623.87M,2021
+cameroon,Import,India,$504.61M,2021
+cameroon,Import,Russia,$475.21M,2021
+cameroon,Import,Belgium,$266.45M,2021
+cameroon,Import,Turkey,$242.27M,2021
+cameroon,Import,Germany,$216.99M,2021
+cameroon,Import,United States,$197.74M,2021
+cameroon,Import,Netherlands,$196.54M,2021
+cameroon,Import,Ukraine,$185.31M,2021
+cape-verde,Import,Portugal,$534.94M,2023
+cape-verde,Import,Saudi Arabia,$201.95M,2023
+cape-verde,Import,Spain,$146.40M,2023
+cape-verde,Import,Netherlands,$145.12M,2023
+cape-verde,Import,France,$110.03M,2023
+cape-verde,Import,China,$96.89M,2023
+cape-verde,Import,United Arab Emirates,$74.43M,2023
+cape-verde,Import,United States,$69.59M,2023
+cape-verde,Import,India,$53.23M,2023
+cape-verde,Import,Brazil,$45.42M,2023
+central-african-republic,Import,China,$125.98M,2023
+central-african-republic,Import,Cameroon,$114.99M,2023
+central-african-republic,Import,France,$83.05M,2023
+central-african-republic,Import,Ivory Coast,$47.81M,2023
+central-african-republic,Import,Japan,$37.57M,2023
+central-african-republic,Import,India,$32.00M,2023
+central-african-republic,Import,United States,$29.79M,2023
+central-african-republic,Import,United Arab Emirates,$24.59M,2023
+central-african-republic,Import,Congo,$20.66M,2023
+central-african-republic,Import,Belgium,$18.35M,2023
+chad,Import,France,$88.82M,1995
+chad,Import,Cameroon,$33.84M,1995
+chad,Import,Nigeria,$25.24M,1995
+chad,Import,United States,$13.93M,1995
+chad,Import,Italy,$6.44M,1995
+chad,Import,China,$6.25M,1995
+chad,Import,Japan,$5.09M,1995
+chad,Import,Spain,$3.39M,1995
+chad,Import,Central African Republic,$3.00M,1995
+chad,Import,Germany,$2.96M,1995
+comoros,Import,United Arab Emirates,$143.96M,2021
+comoros,Import,France,$36.94M,2021
+comoros,Import,Pakistan,$31.70M,2021
+comoros,Import,China,$21.24M,2021
+comoros,Import,Vietnam,$12.70M,2021
+comoros,Import,India,$12.35M,2021
+comoros,Import,Turkey,$12.20M,2021
+comoros,Import,Japan,$7.10M,2021
+comoros,Import,Tanzania,$6.24M,2021
+comoros,Import,Mauritius,$5.09M,2021
+congo,Import,China,$6.77B,2023
+congo,Import,United Arab Emirates,$3.01B,2023
+congo,Import,South Africa,$2.09B,2023
+congo,Import,India,$1.66B,2023
+congo,Import,Belgium,$1.28B,2023
+congo,Import,Saudi Arabia,$1.04B,2023
+congo,Import,Tanzania,$889.92M,2023
+congo,Import,Bahrain,$823.36M,2023
+congo,Import,United States,$621.16M,2023
+congo,Import,Zambia,$531.20M,2023
+djibouti,Import,China,$935.98M,2023
+djibouti,Import,India,$766.99M,2023
+djibouti,Import,United Arab Emirates,$605.93M,2023
+djibouti,Import,Turkey,$490.57M,2023
+djibouti,Import,Saudi Arabia,$451.98M,2023
+djibouti,Import,Indonesia,$293.69M,2023
+djibouti,Import,Malaysia,$224.32M,2023
+djibouti,Import,Japan,$216.56M,2023
+djibouti,Import,Oman,$215.62M,2023
+djibouti,Import,Singapore,$142.69M,2023
+egypt,Import,China,$12.94B,2023
+egypt,Import,United States,$5.40B,2023
+egypt,Import,Saudi Arabia,$5.21B,2023
+egypt,Import,Russia,$4.96B,2023
+egypt,Import,Germany,$4.10B,2023
+egypt,Import,Italy,$3.23B,2023
+egypt,Import,India,$3.23B,2023
+egypt,Import,Brazil,$2.97B,2023
+egypt,Import,Turkey,$2.78B,2023
+egypt,Import,Kuwait,$2.70B,2023
+eritrea,Import,United States,$68.90M,2003
+eritrea,Import,United Arab Emirates,$52.93M,2003
+eritrea,Import,Italy,$50.07M,2003
+eritrea,Import,Saudi Arabia,$45.38M,2003
+eritrea,Import,India,$27.11M,2003
+eritrea,Import,Turkey,$17.54M,2003
+eritrea,Import,Djibouti,$11.99M,2003
+eritrea,Import,China,$11.85M,2003
+eritrea,Import,United Kingdom,$11.73M,2003
+eritrea,Import,Netherlands,$10.45M,2003
+ethiopia,Import,China,$5.57B,2023
+ethiopia,Import,India,$1.64B,2023
+ethiopia,Import,Kuwait,$1.33B,2023
+ethiopia,Import,Saudi Arabia,$1.13B,2023
+ethiopia,Import,United States,$1.08B,2023
+ethiopia,Import,Morocco,$676.62M,2023
+ethiopia,Import,Turkey,$619.98M,2023
+ethiopia,Import,United Arab Emirates,$471.92M,2023
+ethiopia,Import,Egypt,$454.68M,2023
+ethiopia,Import,Japan,$381.94M,2023
+gabon,Import,South Korea,$560.40M,2023
+gabon,Import,France,$548.59M,2023
+gabon,Import,China,$489.73M,2023
+gabon,Import,United States,$318.36M,2023
+gabon,Import,India,$164.20M,2023
+gabon,Import,Germany,$136.01M,2023
+gabon,Import,Japan,$121.14M,2023
+gabon,Import,Panama,$120.64M,2023
+gabon,Import,United Kingdom,$111.36M,2023
+gabon,Import,Singapore,$110.14M,2023
+gambia,Import,Denmark,$1.61B,2023
+gambia,Import,Senegal,$139.75M,2023
+gambia,Import,India,$87.76M,2023
+gambia,Import,China,$86.60M,2023
+gambia,Import,Belgium,$74.88M,2023
+gambia,Import,Ivory Coast,$57.80M,2023
+gambia,Import,Turkey,$40.02M,2023
+gambia,Import,United Arab Emirates,$39.42M,2023
+gambia,Import,Togo,$32.03M,2023
+gambia,Import,Brazil,$29.07M,2023
+ghana,Import,China,$3.07B,2023
+ghana,Import,Netherlands,$1.57B,2023
+ghana,Import,India,$1.06B,2023
+ghana,Import,Russia,$1.05B,2023
+ghana,Import,United States,$993.41M,2023
+ghana,Import,Belgium,$759.99M,2023
+ghana,Import,United Arab Emirates,$620.87M,2023
+ghana,Import,United Kingdom,$504.75M,2023
+ghana,Import,Switzerland,$365.89M,2023
+ghana,Import,South Africa,$311.20M,2023
+guinea,Import,Ivory Coast,$660.80M,2017
+guinea,Import,China,$341.79M,2017
+guinea,Import,Spain,$259.30M,2017
+guinea,Import,Netherlands,$234.52M,2017
+guinea,Import,Belgium,$212.50M,2017
+guinea,Import,India,$199.24M,2017
+guinea,Import,United States,$171.30M,2017
+guinea,Import,France,$143.87M,2017
+guinea,Import,United Arab Emirates,$78.82M,2017
+guinea,Import,Singapore,$65.34M,2017
+guinea-bissau,Import,Senegal,$45.72M,2005
+guinea-bissau,Import,Portugal,$41.56M,2005
+guinea-bissau,Import,Thailand,$7.80M,2005
+guinea-bissau,Import,Netherlands,$6.67M,2005
+guinea-bissau,Import,France,$3.61M,2005
+guinea-bissau,Import,China,$2.67M,2005
+guinea-bissau,Import,Gambia,$1.75M,2005
+guinea-bissau,Import,Morocco,$559.68K,2005
+guinea-bissau,Import,Guinea,$382.48K,2005
+guinea-bissau,Import,Spain,$364.48K,2005
+ivory-coast,Import,China,$2.80B,2023
+ivory-coast,Import,Nigeria,$2.64B,2023
+ivory-coast,Import,France,$1.05B,2023
+ivory-coast,Import,India,$982.74M,2023
+ivory-coast,Import,United States,$736.13M,2023
+ivory-coast,Import,Belgium,$647.80M,2023
+ivory-coast,Import,Germany,$578.91M,2023
+ivory-coast,Import,Croatia,$559.60M,2023
+ivory-coast,Import,Russia,$499.08M,2023
+ivory-coast,Import,Morocco,$426.32M,2023
+kenya,Import,China,$3.28B,2023
+kenya,Import,United Arab Emirates,$2.94B,2023
+kenya,Import,India,$1.92B,2023
+kenya,Import,Saudi Arabia,$1.04B,2023
+kenya,Import,Malaysia,$859.86M,2023
+kenya,Import,United States,$807.35M,2023
+kenya,Import,Japan,$695.41M,2023
+kenya,Import,Russia,$590.39M,2023
+kenya,Import,South Africa,$548.33M,2023
+kenya,Import,Egypt,$353.73M,2023
+lesotho,Import,South Africa,$1.37B,2023
+lesotho,Import,China,$156.18M,2023
+lesotho,Import,India,$17.02M,2023
+lesotho,Import,Japan,$15.83M,2023
+lesotho,Import,Zambia,$12.01M,2023
+lesotho,Import,Vietnam,$10.45M,2023
+lesotho,Import,Hong Kong,$8.88M,2023
+lesotho,Import,Mozambique,$8.58M,2023
+lesotho,Import,United States,$7.20M,2023
+lesotho,Import,United Arab Emirates,$5.76M,2023
+liberia,Import,Ivory Coast,$656.34M,2023
+liberia,Import,China,$361.76M,2023
+liberia,Import,India,$340.89M,2023
+liberia,Import,United States,$80.60M,2023
+liberia,Import,Japan,$58.68M,2023
+liberia,Import,Brazil,$42.69M,2023
+liberia,Import,United Arab Emirates,$41.45M,2023
+liberia,Import,Indonesia,$38.17M,2023
+liberia,Import,Turkey,$35.02M,2023
+liberia,Import,Egypt,$31.97M,2023
+libya,Import,China,$2.45B,2019
+libya,Import,Turkey,$2.07B,2019
+libya,Import,Italy,$1.39B,2019
+libya,Import,United Arab Emirates,$1.35B,2019
+libya,Import,Egypt,$830.67M,2019
+libya,Import,South Korea,$631.88M,2019
+libya,Import,Netherlands,$595.29M,2019
+libya,Import,Tunisia,$538.05M,2019
+libya,Import,Germany,$503.14M,2019
+libya,Import,Spain,$468.33M,2019
+madagascar,Import,China,$818.47M,2023
+madagascar,Import,Oman,$648.80M,2023
+madagascar,Import,France,$540.70M,2023
+madagascar,Import,India,$420.68M,2023
+madagascar,Import,South Africa,$267.23M,2023
+madagascar,Import,United Arab Emirates,$241.11M,2023
+madagascar,Import,Belgium,$190.63M,2023
+madagascar,Import,Mauritius,$188.38M,2023
+madagascar,Import,Malaysia,$146.97M,2023
+madagascar,Import,Egypt,$117.22M,2023
+malawi,Import,China,$546.12M,2023
+malawi,Import,South Africa,$488.62M,2023
+malawi,Import,United Arab Emirates,$388.78M,2023
+malawi,Import,India,$220.17M,2023
+malawi,Import,Tanzania,$210.99M,2023
+malawi,Import,Zambia,$127.49M,2023
+malawi,Import,Mozambique,$102.77M,2023
+malawi,Import,United Kingdom,$98.57M,2023
+malawi,Import,Kuwait,$89.68M,2023
+malawi,Import,Japan,$80.44M,2023
+mali,Import,Senegal,$1.14B,2019
+mali,Import,China,$795.91M,2019
+mali,Import,Ivory Coast,$536.20M,2019
+mali,Import,France,$401.05M,2019
+mali,Import,India,$156.13M,2019
+mali,Import,Germany,$149.87M,2019
+mali,Import,United States,$142.26M,2019
+mali,Import,Italy,$125.78M,2019
+mali,Import,South Africa,$117.64M,2019
+mali,Import,Niger,$109.89M,2019
+mauritania,Import,United Arab Emirates,$888.44M,2023
+mauritania,Import,Spain,$615.14M,2023
+mauritania,Import,Belgium,$519.64M,2023
+mauritania,Import,China,$385.99M,2023
+mauritania,Import,France,$334.26M,2023
+mauritania,Import,Morocco,$224.95M,2023
+mauritania,Import,Brazil,$223.36M,2023
+mauritania,Import,United States,$185.53M,2023
+mauritania,Import,Indonesia,$158.23M,2023
+mauritania,Import,Malaysia,$151.71M,2023
+mauritius,Import,China,$993.08M,2023
+mauritius,Import,United Arab Emirates,$695.75M,2023
+mauritius,Import,India,$642.61M,2023
+mauritius,Import,South Africa,$457.16M,2023
+mauritius,Import,France,$384.05M,2023
+mauritius,Import,Germany,$208.23M,2023
+mauritius,Import,Japan,$191.80M,2023
+mauritius,Import,Oman,$177.94M,2023
+mauritius,Import,Spain,$149.95M,2023
+mauritius,Import,Italy,$138.15M,2023
+morocco,Import,Spain,$11.07B,2023
+morocco,Import,China,$7.50B,2023
+morocco,Import,France,$7.47B,2023
+morocco,Import,United States,$5.97B,2023
+morocco,Import,Turkey,$3.61B,2023
+morocco,Import,Germany,$3.49B,2023
+morocco,Import,Italy,$3.40B,2023
+morocco,Import,Saudi Arabia,$2.34B,2023
+morocco,Import,Portugal,$1.64B,2023
+morocco,Import,Brazil,$1.56B,2023
+mozambique,Import,South Africa,$2.34B,2023
+mozambique,Import,China,$1.55B,2023
+mozambique,Import,United Arab Emirates,$1.04B,2023
+mozambique,Import,India,$807.02M,2023
+mozambique,Import,Singapore,$616.88M,2023
+mozambique,Import,Bahrain,$342.97M,2023
+mozambique,Import,Portugal,$268.89M,2023
+mozambique,Import,Saudi Arabia,$266.43M,2023
+mozambique,Import,Japan,$217.70M,2023
+mozambique,Import,Malaysia,$209.34M,2023
+namibia,Import,South Africa,$2.58B,2023
+namibia,Import,China,$646.56M,2023
+namibia,Import,India,$485.65M,2023
+namibia,Import,United Arab Emirates,$314.86M,2023
+namibia,Import,Namibia,$283.37M,2023
+namibia,Import,United States,$243.42M,2023
+namibia,Import,Saudi Arabia,$236.77M,2023
+namibia,Import,Peru,$217.70M,2023
+namibia,Import,Oman,$163.52M,2023
+namibia,Import,Germany,$156.00M,2023
+niger,Import,China,$859.08M,2023
+niger,Import,France,$761.48M,2023
+niger,Import,India,$364.19M,2023
+niger,Import,Nigeria,$208.26M,2023
+niger,Import,United Arab Emirates,$164.47M,2023
+niger,Import,Belgium,$73.68M,2023
+niger,Import,Japan,$73.30M,2023
+niger,Import,United States,$63.94M,2023
+niger,Import,Thailand,$50.47M,2023
+niger,Import,Togo,$40.66M,2023
+nigeria,Import,China,$11.95B,2023
+nigeria,Import,Singapore,$9.33B,2023
+nigeria,Import,Belgium,$6.12B,2023
+nigeria,Import,India,$5.23B,2023
+nigeria,Import,United States,$4.04B,2023
+nigeria,Import,Netherlands,$3.27B,2023
+nigeria,Import,Malta,$2.25B,2023
+nigeria,Import,South Korea,$1.73B,2023
+nigeria,Import,Saudi Arabia,$1.51B,2023
+nigeria,Import,Russia,$1.51B,2023
+republic-of-the-congo,Import,China,$784.64M,2022
+republic-of-the-congo,Import,Angola,$408.12M,2022
+republic-of-the-congo,Import,France,$349.65M,2022
+republic-of-the-congo,Import,Belgium,$238.18M,2022
+republic-of-the-congo,Import,Germany,$208.24M,2022
+republic-of-the-congo,Import,United States,$135.60M,2022
+republic-of-the-congo,Import,Gabon,$124.28M,2022
+republic-of-the-congo,Import,Cameroon,$108.92M,2022
+republic-of-the-congo,Import,India,$108.66M,2022
+republic-of-the-congo,Import,South Africa,$101.86M,2022
+rwanda,Import,China,$1.08B,2022
+rwanda,Import,Tanzania,$567.86M,2022
+rwanda,Import,Kenya,$478.76M,2022
+rwanda,Import,India,$475.55M,2022
+rwanda,Import,United Arab Emirates,$419.05M,2022
+rwanda,Import,Saudi Arabia,$161.89M,2022
+rwanda,Import,South Africa,$130.80M,2022
+rwanda,Import,Belgium,$125.83M,2022
+rwanda,Import,Indonesia,$107.86M,2022
+rwanda,Import,Turkey,$103.01M,2022
+sao-tome-and-principe,Import,Portugal,$66.42M,2023
+sao-tome-and-principe,Import,Togo,$28.73M,2023
+sao-tome-and-principe,Import,Angola,$25.18M,2023
+sao-tome-and-principe,Import,Japan,$10.24M,2023
+sao-tome-and-principe,Import,Turkey,$9.58M,2023
+sao-tome-and-principe,Import,China,$8.30M,2023
+sao-tome-and-principe,Import,United States,$4.61M,2023
+sao-tome-and-principe,Import,Gabon,$4.24M,2023
+sao-tome-and-principe,Import,Brazil,$3.52M,2023
+sao-tome-and-principe,Import,India,$2.42M,2023
+senegal,Import,France,$1.43B,2023
+senegal,Import,China,$1.29B,2023
+senegal,Import,Nigeria,$1.02B,2023
+senegal,Import,Russia,$828.44M,2023
+senegal,Import,India,$797.79M,2023
+senegal,Import,Belgium,$689.07M,2023
+senegal,Import,United Arab Emirates,$615.63M,2023
+senegal,Import,Netherlands,$338.21M,2023
+senegal,Import,Spain,$298.28M,2023
+senegal,Import,Turkey,$290.39M,2023
+seychelles,Import,United Arab Emirates,$505.50M,2023
+seychelles,Import,Spain,$132.68M,2023
+seychelles,Import,France,$106.61M,2023
+seychelles,Import,South Africa,$98.35M,2023
+seychelles,Import,India,$94.28M,2023
+seychelles,Import,China,$61.14M,2023
+seychelles,Import,Singapore,$45.30M,2023
+seychelles,Import,United Kingdom,$44.25M,2023
+seychelles,Import,Mauritius,$44.15M,2023
+seychelles,Import,Italy,$32.07M,2023
+sierra-leone,Import,China,$197.95M,2018
+sierra-leone,Import,United Arab Emirates,$82.57M,2018
+sierra-leone,Import,Belgium,$74.47M,2018
+sierra-leone,Import,India,$71.07M,2018
+sierra-leone,Import,United States,$53.11M,2018
+sierra-leone,Import,Turkey,$50.99M,2018
+sierra-leone,Import,South Africa,$45.75M,2018
+sierra-leone,Import,Pakistan,$36.46M,2018
+sierra-leone,Import,United Kingdom,$32.99M,2018
+sierra-leone,Import,Guinea,$29.64M,2018
+sudan,Import,China,$1.82B,2018
+sudan,Import,Russia,$1.58B,2018
+sudan,Import,Saudi Arabia,$1.07B,2018
+sudan,Import,India,$873.66M,2018
+sudan,Import,United Arab Emirates,$787.20M,2018
+sudan,Import,Japan,$548.13M,2018
+sudan,Import,Egypt,$460.04M,2018
+sudan,Import,Turkey,$382.33M,2018
+sudan,Import,Germany,$283.41M,2018
+sudan,Import,South Korea,$277.15M,2018
+swaziland,Import,South Africa,$1.50B,2023
+swaziland,Import,China,$154.34M,2023
+swaziland,Import,India,$72.32M,2023
+swaziland,Import,United States,$31.52M,2023
+swaziland,Import,Mozambique,$25.33M,2023
+swaziland,Import,Ireland,$18.89M,2023
+swaziland,Import,Germany,$18.73M,2023
+swaziland,Import,United Arab Emirates,$17.15M,2023
+swaziland,Import,Italy,$13.01M,2023
+swaziland,Import,Bahrain,$12.82M,2023
+tanzania,Import,China,$4.16B,2023
+tanzania,Import,India,$1.95B,2023
+tanzania,Import,United Arab Emirates,$1.42B,2023
+tanzania,Import,Saudi Arabia,$919.15M,2023
+tanzania,Import,Japan,$649.53M,2023
+tanzania,Import,South Africa,$555.51M,2023
+tanzania,Import,Kenya,$408.89M,2023
+tanzania,Import,Russia,$384.39M,2023
+tanzania,Import,United States,$378.38M,2023
+tanzania,Import,Turkey,$328.15M,2023
+togo,Import,China,$691.82M,2024
+togo,Import,Russia,$279.60M,2024
+togo,Import,France,$209.63M,2024
+togo,Import,India,$194.55M,2024
+togo,Import,Nigeria,$128.34M,2024
+togo,Import,Japan,$122.08M,2024
+togo,Import,Belgium,$115.26M,2024
+togo,Import,Turkey,$112.77M,2024
+togo,Import,Senegal,$98.88M,2024
+togo,Import,Malaysia,$86.91M,2024
+tunisia,Import,Italy,$3.24B,2023
+tunisia,Import,France,$2.77B,2023
+tunisia,Import,China,$2.74B,2023
+tunisia,Import,Russia,$2.12B,2023
+tunisia,Import,Algeria,$1.81B,2023
+tunisia,Import,Germany,$1.80B,2023
+tunisia,Import,Turkey,$1.22B,2023
+tunisia,Import,Spain,$950.31M,2023
+tunisia,Import,United States,$655.91M,2023
+tunisia,Import,India,$564.12M,2023
+uganda,Import,China,$2.29B,2023
+uganda,Import,United Arab Emirates,$1.43B,2023
+uganda,Import,Tanzania,$1.33B,2023
+uganda,Import,India,$1.26B,2023
+uganda,Import,Kenya,$824.25M,2023
+uganda,Import,Japan,$449.15M,2023
+uganda,Import,Saudi Arabia,$416.36M,2023
+uganda,Import,South Africa,$306.87M,2023
+uganda,Import,Ghana,$234.37M,2023
+uganda,Import,Malaysia,$233.96M,2023
+zambia,Import,South Africa,$2.61B,2023
+zambia,Import,China,$1.64B,2023
+zambia,Import,United Arab Emirates,$830.35M,2023
+zambia,Import,India,$567.89M,2023
+zambia,Import,Japan,$539.77M,2023
+zambia,Import,Singapore,$370.55M,2023
+zambia,Import,Saudi Arabia,$318.05M,2023
+zambia,Import,Tanzania,$286.69M,2023
+zambia,Import,Bahrain,$267.73M,2023
+zambia,Import,United States,$253.46M,2023
+zimbabwe,Import,South Africa,$3.50B,2023
+zimbabwe,Import,China,$1.37B,2023
+zimbabwe,Import,Bahamas,$469.43M,2023
+zimbabwe,Import,Singapore,$460.49M,2023
+zimbabwe,Import,Bahrain,$326.36M,2023
+zimbabwe,Import,Mozambique,$285.88M,2023
+zimbabwe,Import,Mauritius,$268.87M,2023
+zimbabwe,Import,India,$258.03M,2023
+zimbabwe,Import,Zambia,$245.77M,2023
+zimbabwe,Import,United Arab Emirates,$227.90M,2023
+afghanistan,Import,Iran,$1.25B,2019
+afghanistan,Import,China,$1.19B,2019
+afghanistan,Import,Pakistan,$1.10B,2019
+afghanistan,Import,United States,$783.75M,2019
+afghanistan,Import,Turkmenistan,$690.21M,2019
+afghanistan,Import,Kazakhstan,$522.24M,2019
+afghanistan,Import,India,$453.70M,2019
+afghanistan,Import,Uzbekistan,$433.35M,2019
+afghanistan,Import,Malaysia,$320.76M,2019
+afghanistan,Import,Turkey,$291.17M,2019
+armenia,Import,Russia,$9.24B,2024
+armenia,Import,China,$1.67B,2024
+armenia,Import,Vietnam,$881.06M,2024
+armenia,Import,Iran,$628.51M,2024
+armenia,Import,Germany,$372.54M,2024
+armenia,Import,Italy,$349.25M,2024
+armenia,Import,Turkey,$334.28M,2024
+armenia,Import,United States,$273.17M,2024
+armenia,Import,India,$232.83M,2024
+armenia,Import,Egypt,$183.76M,2024
+azerbaijan,Import,China,$3.73B,2024
+azerbaijan,Import,Russia,$3.62B,2024
+azerbaijan,Import,Turkey,$2.31B,2024
+azerbaijan,Import,United States,$1.62B,2024
+azerbaijan,Import,Australia,$1.46B,2024
+azerbaijan,Import,Germany,$824.82M,2024
+azerbaijan,Import,Iran,$633.06M,2024
+azerbaijan,Import,Italy,$515.80M,2024
+azerbaijan,Import,Belarus,$455.84M,2024
+azerbaijan,Import,Japan,$409.06M,2024
+bahrain,Import,China,$2.15B,2023
+bahrain,Import,United Arab Emirates,$1.44B,2023
+bahrain,Import,Brazil,$1.39B,2023
+bahrain,Import,Australia,$1.26B,2023
+bahrain,Import,Saudi Arabia,$976.05M,2023
+bahrain,Import,United States,$973.06M,2023
+bahrain,Import,India,$744.44M,2023
+bahrain,Import,Japan,$685.68M,2023
+bahrain,Import,Germany,$526.51M,2023
+bahrain,Import,Italy,$404.58M,2023
+bangladesh,Import,China,$10.35B,2015
+bangladesh,Import,India,$5.88B,2015
+bangladesh,Import,Singapore,$4.42B,2015
+bangladesh,Import,Hong Kong,$2.62B,2015
+bangladesh,Import,Indonesia,$2.20B,2015
+bangladesh,Import,Japan,$1.70B,2015
+bangladesh,Import,South Korea,$1.48B,2015
+bangladesh,Import,Malaysia,$1.44B,2015
+bangladesh,Import,Brazil,$1.25B,2015
+bangladesh,Import,Kuwait,$1.20B,2015
+bhutan,Import,India,$781.47M,2012
+bhutan,Import,South Korea,$30.99M,2012
+bhutan,Import,China,$24.85M,2012
+bhutan,Import,Japan,$23.55M,2012
+bhutan,Import,Austria,$17.55M,2012
+bhutan,Import,Singapore,$14.63M,2012
+bhutan,Import,Thailand,$13.83M,2012
+bhutan,Import,Sweden,$11.38M,2012
+bhutan,Import,Nepal,$8.74M,2012
+bhutan,Import,Switzerland,$7.34M,2012
+brunei,Import,Malaysia,$1.97B,2023
+brunei,Import,United Arab Emirates,$817.08M,2023
+brunei,Import,China,$784.24M,2023
+brunei,Import,Australia,$541.51M,2023
+brunei,Import,Qatar,$469.85M,2023
+brunei,Import,Kazakhstan,$450.60M,2023
+brunei,Import,Singapore,$345.91M,2023
+brunei,Import,Saudi Arabia,$279.63M,2023
+brunei,Import,United States,$278.99M,2023
+brunei,Import,Russia,$239.93M,2023
+cambodia,Import,China,$10.79B,2023
+cambodia,Import,Vietnam,$3.61B,2023
+cambodia,Import,Thailand,$2.90B,2023
+cambodia,Import,Indonesia,$994.60M,2023
+cambodia,Import,Singapore,$939.66M,2023
+cambodia,Import,Japan,$623.57M,2023
+cambodia,Import,Malaysia,$527.38M,2023
+cambodia,Import,South Korea,$470.25M,2023
+cambodia,Import,Hong Kong,$328.44M,2023
+cambodia,Import,United States,$257.24M,2023
+east-timor,Import,Indonesia,$300.46M,2023
+east-timor,Import,China,$128.63M,2023
+east-timor,Import,Singapore,$94.24M,2023
+east-timor,Import,Australia,$60.47M,2023
+east-timor,Import,India,$52.15M,2023
+east-timor,Import,Malaysia,$30.22M,2023
+east-timor,Import,United States,$21.29M,2023
+east-timor,Import,Hong Kong,$20.88M,2023
+east-timor,Import,Vietnam,$19.99M,2023
+east-timor,Import,Brazil,$13.99M,2023
+georgia,Import,Turkey,$2.77B,2024
+georgia,Import,United States,$2.05B,2024
+georgia,Import,Russia,$1.85B,2024
+georgia,Import,China,$1.61B,2024
+georgia,Import,Germany,$1.31B,2024
+georgia,Import,Azerbaijan,$583.60M,2024
+georgia,Import,Japan,$534.93M,2024
+georgia,Import,Italy,$416.33M,2024
+georgia,Import,United Arab Emirates,$333.11M,2024
+georgia,Import,Poland,$328.17M,2024
+hong-kong,Import,China,$261.94B,2023
+hong-kong,Import,Singapore,$44.47B,2023
+hong-kong,Import,Japan,$34.03B,2023
+hong-kong,Import,South Korea,$28.85B,2023
+hong-kong,Import,United States,$26.25B,2023
+hong-kong,Import,Malaysia,$19.19B,2023
+hong-kong,Import,Switzerland,$18.35B,2023
+hong-kong,Import,United Kingdom,$17.64B,2023
+hong-kong,Import,Vietnam,$17.11B,2023
+hong-kong,Import,United Arab Emirates,$14.55B,2023
+iran,Import,United Arab Emirates,$18.01B,2022
+iran,Import,China,$15.56B,2022
+iran,Import,Turkey,$6.08B,2022
+iran,Import,India,$2.69B,2022
+iran,Import,Germany,$1.89B,2022
+iran,Import,Russia,$1.53B,2022
+iran,Import,Switzerland,$1.18B,2022
+iran,Import,United Kingdom,$948.33M,2022
+iran,Import,Netherlands,$904.17M,2022
+iran,Import,Pakistan,$781.18M,2022
+iraq,Import,China,$10.51B,2014
+iraq,Import,United Arab Emirates,$5.54B,2014
+iraq,Import,South Korea,$2.90B,2014
+iraq,Import,United States,$2.43B,2014
+iraq,Import,Japan,$1.56B,2014
+iraq,Import,Italy,$911.67M,2014
+iraq,Import,India,$803.91M,2014
+iraq,Import,France,$746.90M,2014
+iraq,Import,Iran,$600.43M,2014
+iraq,Import,Indonesia,$532.31M,2014
+israel,Import,China,$19.10B,2024
+israel,Import,United States,$9.44B,2024
+israel,Import,Germany,$5.62B,2024
+israel,Import,Italy,$3.63B,2024
+israel,Import,Turkey,$2.87B,2024
+israel,Import,Russia,$2.37B,2024
+israel,Import,France,$2.21B,2024
+israel,Import,South Korea,$2.15B,2024
+israel,Import,India,$2.08B,2024
+israel,Import,Spain,$2.07B,2024
+jordan,Import,China,$4.50B,2023
+jordan,Import,Saudi Arabia,$3.65B,2023
+jordan,Import,United States,$1.64B,2023
+jordan,Import,India,$1.55B,2023
+jordan,Import,United Arab Emirates,$1.37B,2023
+jordan,Import,Germany,$900.35M,2023
+jordan,Import,Turkey,$786.20M,2023
+jordan,Import,Indonesia,$739.25M,2023
+jordan,Import,Egypt,$696.93M,2023
+jordan,Import,Italy,$683.42M,2023
+kazakhstan,Import,China,$16.77B,2023
+kazakhstan,Import,Russia,$16.19B,2023
+kazakhstan,Import,Gambia,$2.91B,2023
+kazakhstan,Import,United States,$2.56B,2023
+kazakhstan,Import,South Korea,$2.21B,2023
+kazakhstan,Import,Turkey,$2.04B,2023
+kazakhstan,Import,Japan,$1.60B,2023
+kazakhstan,Import,France,$1.30B,2023
+kazakhstan,Import,Uzbekistan,$1.29B,2023
+kazakhstan,Import,Italy,$1.24B,2023
+kuwait,Import,China,$7.43B,2023
+kuwait,Import,United States,$3.40B,2023
+kuwait,Import,United Arab Emirates,$3.38B,2023
+kuwait,Import,Japan,$2.30B,2023
+kuwait,Import,India,$2.06B,2023
+kuwait,Import,Saudi Arabia,$1.95B,2023
+kuwait,Import,Germany,$1.65B,2023
+kuwait,Import,Italy,$1.46B,2023
+kuwait,Import,Switzerland,$1.06B,2023
+kuwait,Import,France,$993.63M,2023
+kyrgyzstan,Import,China,$5.35B,2023
+kyrgyzstan,Import,Russia,$2.18B,2023
+kyrgyzstan,Import,Kazakhstan,$837.81M,2023
+kyrgyzstan,Import,South Korea,$550.73M,2023
+kyrgyzstan,Import,Turkey,$451.65M,2023
+kyrgyzstan,Import,United States,$424.67M,2023
+kyrgyzstan,Import,Germany,$421.59M,2023
+kyrgyzstan,Import,Uzbekistan,$403.22M,2023
+kyrgyzstan,Import,Japan,$254.96M,2023
+kyrgyzstan,Import,United Kingdom,$113.39M,2023
+laos,Import,Thailand,$2.74B,2021
+laos,Import,China,$1.33B,2021
+laos,Import,Vietnam,$465.78M,2021
+laos,Import,United States,$266.06M,2021
+laos,Import,Switzerland,$261.29M,2021
+laos,Import,Japan,$174.49M,2021
+laos,Import,Australia,$99.82M,2021
+laos,Import,Singapore,$64.54M,2021
+laos,Import,South Korea,$62.66M,2021
+laos,Import,India,$40.41M,2021
+lebanon,Import,China,$2.09B,2023
+lebanon,Import,Greece,$1.78B,2023
+lebanon,Import,Switzerland,$1.75B,2023
+lebanon,Import,Turkey,$1.38B,2023
+lebanon,Import,Italy,$1.12B,2023
+lebanon,Import,United States,$735.44M,2023
+lebanon,Import,Egypt,$703.25M,2023
+lebanon,Import,Russia,$586.28M,2023
+lebanon,Import,Germany,$574.07M,2023
+lebanon,Import,United Arab Emirates,$535.95M,2023
+macao,Import,China,$6.15B,2021
+macao,Import,France,$3.50B,2021
+macao,Import,Italy,$2.12B,2021
+macao,Import,Japan,$1.65B,2021
+macao,Import,Switzerland,$1.52B,2021
+macao,Import,United States,$1.32B,2021
+macao,Import,Hong Kong,$711.71M,2021
+macao,Import,United Kingdom,$345.48M,2021
+macao,Import,Germany,$219.04M,2021
+macao,Import,South Korea,$207.59M,2021
+malaysia,Import,China,$64.78B,2024
+malaysia,Import,Singapore,$36.13B,2024
+malaysia,Import,United States,$27.60B,2024
+malaysia,Import,Japan,$15.33B,2024
+malaysia,Import,Indonesia,$13.52B,2024
+malaysia,Import,Thailand,$12.14B,2024
+malaysia,Import,South Korea,$12.09B,2024
+malaysia,Import,Saudi Arabia,$8.15B,2024
+malaysia,Import,Australia,$7.32B,2024
+malaysia,Import,Germany,$7.06B,2024
+maldives,Import,India,$544.75M,2023
+maldives,Import,Oman,$527.60M,2023
+maldives,Import,United Arab Emirates,$450.91M,2023
+maldives,Import,China,$404.90M,2023
+maldives,Import,Singapore,$321.61M,2023
+maldives,Import,Malaysia,$205.20M,2023
+maldives,Import,Sri Lanka,$162.27M,2023
+maldives,Import,Thailand,$90.27M,2023
+maldives,Import,United States,$81.35M,2023
+maldives,Import,Germany,$74.63M,2023
+mongolia,Import,China,$2.49B,2021
+mongolia,Import,Russia,$1.96B,2021
+mongolia,Import,Japan,$453.16M,2021
+mongolia,Import,South Korea,$308.74M,2021
+mongolia,Import,Germany,$222.74M,2021
+mongolia,Import,United States,$213.49M,2021
+mongolia,Import,Poland,$83.36M,2021
+mongolia,Import,Vietnam,$79.72M,2021
+mongolia,Import,Turkey,$71.20M,2021
+mongolia,Import,France,$68.88M,2021
+myanmar,Import,China,$5.09B,2023
+myanmar,Import,Singapore,$3.70B,2023
+myanmar,Import,Thailand,$2.10B,2023
+myanmar,Import,Malaysia,$1.37B,2023
+myanmar,Import,Indonesia,$1.19B,2023
+myanmar,Import,South Korea,$553.43M,2023
+myanmar,Import,India,$448.25M,2023
+myanmar,Import,Vietnam,$293.35M,2023
+myanmar,Import,Japan,$198.61M,2023
+myanmar,Import,United States,$175.41M,2023
+nepal,Import,India,$8.69B,2022
+nepal,Import,China,$1.85B,2022
+nepal,Import,Indonesia,$354.05M,2022
+nepal,Import,United Arab Emirates,$321.81M,2022
+nepal,Import,United States,$293.91M,2022
+nepal,Import,Argentina,$236.02M,2022
+nepal,Import,Australia,$142.06M,2022
+nepal,Import,Ukraine,$137.46M,2022
+nepal,Import,Malaysia,$123.75M,2022
+nepal,Import,Qatar,$97.10M,2022
+oman,Import,United Arab Emirates,$10.21B,2023
+oman,Import,Saudi Arabia,$4.79B,2023
+oman,Import,China,$2.83B,2023
+oman,Import,India,$2.78B,2023
+oman,Import,Qatar,$2.16B,2023
+oman,Import,Kuwait,$1.74B,2023
+oman,Import,United States,$1.35B,2023
+oman,Import,Japan,$1.27B,2023
+oman,Import,Brazil,$1.22B,2023
+oman,Import,Germany,$669.64M,2023
+palestine,Import,Israel,$4.75B,2022
+palestine,Import,Turkey,$908.11M,2022
+palestine,Import,China,$670.83M,2022
+palestine,Import,Jordan,$333.18M,2022
+palestine,Import,Egypt,$302.24M,2022
+palestine,Import,Germany,$190.78M,2022
+palestine,Import,India,$136.90M,2022
+palestine,Import,Saudi Arabia,$133.81M,2022
+palestine,Import,Italy,$127.23M,2022
+palestine,Import,Switzerland,$111.96M,2022
+pakistan,Import,China,$11.69B,2023
+pakistan,Import,United Arab Emirates,$4.82B,2023
+pakistan,Import,Saudi Arabia,$4.48B,2023
+pakistan,Import,Indonesia,$3.49B,2023
+pakistan,Import,Qatar,$3.30B,2023
+pakistan,Import,Kuwait,$1.92B,2023
+pakistan,Import,United States,$1.66B,2023
+pakistan,Import,Singapore,$1.11B,2023
+pakistan,Import,Japan,$1.02B,2023
+pakistan,Import,Australia,$951.23M,2023
+philippines,Import,China,$30.93B,2023
+philippines,Import,Indonesia,$12.28B,2023
+philippines,Import,Japan,$10.92B,2023
+philippines,Import,United States,$9.11B,2023
+philippines,Import,South Korea,$8.88B,2023
+philippines,Import,Thailand,$8.19B,2023
+philippines,Import,Singapore,$7.39B,2023
+philippines,Import,Malaysia,$6.23B,2023
+philippines,Import,Vietnam,$4.97B,2023
+philippines,Import,Australia,$3.96B,2023
+qatar,Import,United States,$5.01B,2023
+qatar,Import,China,$4.55B,2023
+qatar,Import,Italy,$2.02B,2023
+qatar,Import,India,$1.77B,2023
+qatar,Import,Germany,$1.76B,2023
+qatar,Import,United Kingdom,$1.02B,2023
+qatar,Import,Japan,$989.37M,2023
+qatar,Import,France,$962.60M,2023
+qatar,Import,Switzerland,$852.79M,2023
+qatar,Import,Oman,$841.62M,2023
+united-arab-emirates,Import,China,$77.42B,2023
+united-arab-emirates,Import,India,$30.45B,2023
+united-arab-emirates,Import,United States,$26.87B,2023
+united-arab-emirates,Import,Turkey,$17.66B,2023
+united-arab-emirates,Import,Japan,$15.17B,2023
+united-arab-emirates,Import,Germany,$11.30B,2023
+united-arab-emirates,Import,Switzerland,$11.21B,2023
+united-arab-emirates,Import,Vietnam,$11.05B,2023
+united-arab-emirates,Import,Italy,$10.07B,2023
+united-arab-emirates,Import,Guinea,$9.05B,2023
+uzbekistan,Import,China,$16.18B,2024
+uzbekistan,Import,Russia,$12.45B,2024
+uzbekistan,Import,Kazakhstan,$4.22B,2024
+uzbekistan,Import,South Korea,$3.00B,2024
+uzbekistan,Import,Turkey,$2.58B,2024
+uzbekistan,Import,Germany,$1.49B,2024
+uzbekistan,Import,Turkmenistan,$1.49B,2024
+uzbekistan,Import,India,$1.29B,2024
+uzbekistan,Import,Belarus,$765.89M,2024
+uzbekistan,Import,Lithuania,$765.82M,2024
+vietnam,Import,China,$117.65B,2022
+vietnam,Import,South Korea,$62.05B,2022
+vietnam,Import,Japan,$23.31B,2022
+vietnam,Import,United States,$14.48B,2022
+vietnam,Import,Thailand,$14.08B,2022
+vietnam,Import,Australia,$10.11B,2022
+vietnam,Import,Indonesia,$9.62B,2022
+vietnam,Import,Malaysia,$9.09B,2022
+vietnam,Import,India,$7.05B,2022
+vietnam,Import,Kuwait,$6.56B,2022
+yemen,Import,United Arab Emirates,$1.13B,2019
+yemen,Import,China,$489.29M,2019
+yemen,Import,Saudi Arabia,$304.43M,2019
+yemen,Import,Oman,$257.95M,2019
+yemen,Import,Turkey,$257.00M,2019
+yemen,Import,Argentina,$254.25M,2019
+yemen,Import,Brazil,$220.68M,2019
+yemen,Import,India,$174.76M,2019
+yemen,Import,Egypt,$148.37M,2019
+yemen,Import,United States,$147.59M,2019
+fiji,Import,Singapore,$795.20M,2023
+fiji,Import,Australia,$478.70M,2023
+fiji,Import,China,$466.07M,2023
+fiji,Import,New Zealand,$422.96M,2023
+fiji,Import,United States,$159.15M,2023
+fiji,Import,Japan,$108.65M,2023
+fiji,Import,India,$95.44M,2023
+fiji,Import,Thailand,$84.08M,2023
+fiji,Import,Malaysia,$75.66M,2023
+fiji,Import,Indonesia,$51.74M,2023
+kiribati,Import,Fiji,$28.31M,2021
+kiribati,Import,China,$27.43M,2021
+kiribati,Import,Australia,$25.22M,2021
+kiribati,Import,Singapore,$22.51M,2021
+kiribati,Import,New Zealand,$15.78M,2021
+kiribati,Import,Vanuatu,$9.66M,2021
+kiribati,Import,Japan,$8.22M,2021
+kiribati,Import,Hong Kong,$5.98M,2021
+kiribati,Import,Indonesia,$4.08M,2021
+kiribati,Import,Denmark,$3.79M,2021
+new-caledonia,Import,France,$649.83M,2015
+new-caledonia,Import,China,$258.31M,2015
+new-caledonia,Import,Singapore,$207.83M,2015
+new-caledonia,Import,Malaysia,$169.52M,2015
+new-caledonia,Import,South Korea,$157.36M,2015
+new-caledonia,Import,Australia,$144.60M,2015
+new-caledonia,Import,New Zealand,$120.58M,2015
+new-caledonia,Import,United States,$109.04M,2015
+new-caledonia,Import,Japan,$89.49M,2015
+new-caledonia,Import,Thailand,$79.10M,2015
+new-zealand,Import,China,$10.20B,2024
+new-zealand,Import,Australia,$5.24B,2024
+new-zealand,Import,United States,$4.92B,2024
+new-zealand,Import,South Korea,$4.16B,2024
+new-zealand,Import,Japan,$2.68B,2024
+new-zealand,Import,Singapore,$2.34B,2024
+new-zealand,Import,Germany,$1.95B,2024
+new-zealand,Import,Thailand,$1.78B,2024
+new-zealand,Import,Malaysia,$1.37B,2024
+new-zealand,Import,United Kingdom,$1.37B,2024
+papua-new-guinea,Import,Australia,$1.60B,2021
+papua-new-guinea,Import,China,$780.78M,2021
+papua-new-guinea,Import,Singapore,$678.82M,2021
+papua-new-guinea,Import,Malaysia,$285.80M,2021
+papua-new-guinea,Import,Indonesia,$190.02M,2021
+papua-new-guinea,Import,Thailand,$157.34M,2021
+papua-new-guinea,Import,Japan,$139.14M,2021
+papua-new-guinea,Import,New Zealand,$122.43M,2021
+papua-new-guinea,Import,India,$74.94M,2021
+papua-new-guinea,Import,Hong Kong,$72.09M,2021
+samoa,Import,Singapore,$109.82M,2023
+samoa,Import,New Zealand,$100.15M,2023
+samoa,Import,China,$59.45M,2023
+samoa,Import,Fiji,$45.23M,2023
+samoa,Import,Australia,$40.55M,2023
+samoa,Import,United States,$37.85M,2023
+samoa,Import,Japan,$17.46M,2023
+samoa,Import,Thailand,$13.69M,2023
+samoa,Import,Hong Kong,$12.78M,2023
+samoa,Import,South Korea,$8.32M,2023
+solomon-islands,Import,Australia,$109.58M,2018
+solomon-islands,Import,Singapore,$97.82M,2018
+solomon-islands,Import,China,$89.41M,2018
+solomon-islands,Import,Malaysia,$77.79M,2018
+solomon-islands,Import,Vietnam,$27.03M,2018
+solomon-islands,Import,Japan,$26.52M,2018
+solomon-islands,Import,New Zealand,$25.64M,2018
+solomon-islands,Import,Indonesia,$18.31M,2018
+solomon-islands,Import,Hong Kong,$14.65M,2018
+solomon-islands,Import,Fiji,$14.47M,2018
+tonga,Import,New Zealand,$62.42M,2014
+tonga,Import,Singapore,$46.10M,2014
+tonga,Import,United States,$23.68M,2014
+tonga,Import,Japan,$17.46M,2014
+tonga,Import,Fiji,$17.06M,2014
+tonga,Import,China,$16.40M,2014
+tonga,Import,Australia,$11.76M,2014
+tonga,Import,Indonesia,$3.50M,2014
+tonga,Import,Malaysia,$3.36M,2014
+tonga,Import,Thailand,$3.09M,2014
+vanuatu,Import,Australia,$83.27M,2011
+vanuatu,Import,Singapore,$51.06M,2011
+vanuatu,Import,New Zealand,$35.61M,2011
+vanuatu,Import,Fiji,$22.41M,2011
+vanuatu,Import,China,$19.43M,2011
+vanuatu,Import,France,$10.00M,2011
+vanuatu,Import,Japan,$7.29M,2011
+vanuatu,Import,Thailand,$6.86M,2011
+vanuatu,Import,New Caledonia,$4.93M,2011
+vanuatu,Import,United States,$4.84M,2011

@@ -1,0 +1,54 @@
+﻿Column#1,Column#2,Column#3
+```csv,,
+Category,Value,Unit
+Global Military Rank,6,Rank
+Power Index Score,0.1785,Score
+Total Population,68459055,People
+Available Manpower,31491165,People
+Fit-for-Service,25192932,People
+Reaching Military Age Annually,753050,People
+Active Personnel,184860,People
+Reserve Personnel,924000,People
+Paramilitary Personnel,0,People
+Total Aircraft,631,Units
+Fighters,113,Units
+Attack Aircraft,31,Units
+Transport Aircraft,29,Units
+Trainer Aircraft,203,Units
+Special-Mission Aircraft,28,Units
+Tanker Aircraft,9,Units
+Helicopters,266,Units
+Attack Helicopters,37,Units
+Total Tanks,227,Units
+Total Armored Vehicles,38200,Units
+Self-Propelled Artillery,71,Units
+Towed Artillery,126,Units
+Multiple Launch Rocket Systems,29,Units
+Total Naval Assets,109,Units
+Aircraft Carriers,2,Units
+Destroyers,6,Units
+Frigates,8,Units
+Submarines,9,Units
+Oil Production,753000,Barrels per day
+Oil Consumption,1397000,Barrels per day
+Proven Oil Reserves,2500000000,Barrels
+Natural Gas Production,37758000000,Cubic meters
+Natural Gas Consumption,70141000000,Cubic meters
+Proven Natural Gas Reserves,1.80661E+11,Cubic meters
+Coal Production,1891000,Metric tons
+Coal Consumption,8568000,Metric tons
+Proven Coal Reserves,26000000,Metric tons
+Defense Budget,71500540000,USD
+External Debt,9.59375E+12,USD
+Purchasing Power Parity,3.7E+12,USD
+Square Land Area,243610,Square kilometers
+Coastline Coverage,12429,Kilometers
+Shared Borders,443,Kilometers
+Waterways,3200,Kilometers
+Labor Force,35275000,People
+Merchant Marine Fleet,868,Vessels
+Ports and Harbors,185,Ports
+Airports,1043,Airports
+Roadway Coverage,394428,Kilometers
+Railway Coverage,16390,Kilometers
+```,,
